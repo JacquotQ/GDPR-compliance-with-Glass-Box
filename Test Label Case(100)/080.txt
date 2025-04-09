@@ -1,0 +1,322 @@
+Ruling
+Content indication
+
+Art. 15 GDPR, art. 85 GDPR, art. 43 UAVG. Request for access to personal data (forum website). Appeal journalistic exception fails.
+Text
+
+Picture Picture order
+CENTRAL DISTRICT COURT
+
+Civil law
+
+Commercial Chamber
+
+Utrecht location
+
+Case number / application number: C/16/536914 / HA RK 22-78
+
+Order of 4 January 2023
+
+in the case of
+
+[applicant] ,
+
+residing in [place of residence] ,
+
+applicant,
+
+hereinafter referred to as: [applicant] ,
+
+appeared in person,
+
+against
+
+[respondent] ,
+
+established in [place of establishment] ,
+
+respondent,
+
+hereinafter referred to as: [respondent] ,
+
+attorney: Mr. G. Rietkerk, corporate lawyer.
+
+1The procedure
+1.1.
+
+On 25 March 2022, the court received the petition of [petitioner] based on the General Data Protection Regulation (GDPR) with 3 productions.
+
+1.2.
+
+The oral hearing of the petition took place on 10 August 2022. [petitioner] and Mr. Rietkerk appeared there. Mr. Rietkerk submitted and presented a statement of defense. The clerk kept notes of what was further discussed. At the oral hearing, [petitioner] submitted a form of legal costs. On behalf of [respondent], two overviews were submitted entitled ‘Data in and around forum’ and ‘Data of A (in italics after identification)’.
+
+The parties have agreed to adjourn the case for amicable consultation and that they will inform the court of the continuation of the proceedings by 1 September 2022 at the latest.
+
+1.3.
+
+On 16 August 2022, [applicant] filed a Notice of Objection with the registry. In it, [applicant] objects to the – in his view too extensive – statement of defence and requests to be given the opportunity to respond to it in writing.
+
+1.4.
+
+On 25 August 2022, a letter signed by [applicant] and Mr. Rietkerk was received by the registry in which they requested that the proceedings be continued. In the letter, [applicant] withdrew the Notice of Objection.
+1.5.
+
+On 7 October 2022, the registry received a letter from [applicant] in which he stated that the parties had not reached an amicable settlement. He further requested to be allowed to respond to the statement of defence in writing or, if the court rejects this, to issue a decision. In a letter received by the registry on 14 October 2022, [respondent] – in summary – requested a decision.
+
+1.6.
+
+The decision was made today.
+
+2What is it about?
+2.1.
+
+[Respondent] is a Dutch public broadcaster that produces and broadcasts the (consumer) television program [program].
+
+2.2.
+
+On its website [website] / [Respondent] offers a forum under the name [forum] ’ (hereinafter: forum). On this forum, people who have registered can post articles (so-called topics) and respond to articles/reactions from others. Users of the forum must adhere to the ‘House rules and conditions of use’. The forum is managed and moderated by the Moderator.
+
+2.3.
+
+[Applicant] participates in the forum under the profile ‘ [profile name] ’. Since 2015, he has posted more than 20,000 messages on the forum. He wants [defendant] to provide him with the (personal) data he requests, which he has not been given and that is why he has started this procedure.
+
+2.4.
+
+On June 14, 2021, ‘ [profile name] ’ sent a personal message to [defendant] on the forum with the subject ‘Re: [subject] ’. In it he writes:
+
+“(...) Would you be so kind as to provide me with a copy of the following messages for my administration?
+
+- the opening message from the [topic] topic;
+
+- the messages in which, according to you, I am guilty of fighting out a personal quarrel:
+
+- the messages in which, according to you, I am guilty of writing an off-topic message.
+
+I thank you in advance for your cooperation.
+
+Kind regards.
+
+[profile name] (...)”
+
+2.5.
+
+On February 3, 2022, the moderator of the forum ‘ [profile name] ’ issued a one-month ban due to a dispute on the forum with another participant(s).
+
+2.6.
+
+On February 21, 2022, [applicant] under the name ‘ [profile name] ’ asks [respondent] in an e-mail message for the following:
+
+“(...) I request that you provide me with a copy of all information about my person that you have processed in relation to violations.
+
+I request that you receive for each violation that you believe I have committed:
+
+ which house rule I am said to have violated;
+
+ the message I wrote in which, according to you, I am said to have violated the house rules;
+
+ the opening message of the topic and other messages from others, insofar as these are relevant to determining the violation;
+
+ any comments on the message that you have included in your administration;
+
+ where applicable, what you have indicated about this to third parties and me;
+
+I request that you receive for each violation that you believe third parties have committed against me:
+
+ the comments of this third party about me, with which this third party, according to you, has violated the house rules
+
+I also request that you indicate what your purpose is in processing the above information, who received the above information from you and when you expect to delete the above information.
+
+Kind regards,
+
+[profile name] ”
+
+2.7.
+
+On March 7, 2022, ‘ [profile name] ’ sent a personal message to [defendant] on the forum with the subject ‘Reminder request for information’, in which he – in summary – refers to the e-mail of February 12, 2022 and once again requests that the requested information be provided.
+
+3The request and the defense
+
+3.1.
+
+[Applicant] requests that [Respondent] be ordered:
+
+to provide a copy of the following personal data:
+
+for each violation of the house rules by him:
+
+i. which house rule he allegedly violated;
+
+ii. the message written by him, in which he allegedly violated the house rules;
+
+iii. the opening message of the topic and other messages from others, to the extent necessary to establish the correctness of the alleged violation;
+
+iv. the processed comment of the moderator on the message or violation;
+
+v. what was communicated about this to him and to third parties;
+
+for each violation of the house rules by third parties:
+
+i. the comments of this third party about him, with which this third party allegedly violated the house rules according to you;
+
+2. to provide the other information as referred to in article 15 paragraph 1 under a to h GDPR, with regard to the above personal data.
+
+This is under penalty of a penalty, the amount of which must be determined by the court in good justice, and with an order for [respondent] to pay the legal costs, increased by the statutory interest.
+
+3.2.
+
+In support of his request, [applicant] argues – in summary – that he has the right, on the basis of Article 15 paragraph 1 GDPR, to hear which personal data of his have been processed and, if necessary, to receive a complete and comprehensible overview thereof.
+
+3.3.
+
+[Respondent] has orally defended the request with the conclusion that the court will reject it, with an order for [applicant] to pay the legal costs. She argues – in summary – the following: primarily that the pseudonym ‘ [profile name] ’ is not personal data, subsidiarily that the journalistic exception applies, more subsidiarily that [applicant] has no right to data that exists and he does not yet have and more subsidiarily that [applicant] has no interest.
+
+3.4.
+
+The parties' positions will be discussed in more detail below, insofar as relevant.
+
+4The assessment
+4.1.
+
+Article 15 paragraph 1 GDPR, which [applicant] relies on, stipulates that the person whose personal data are being processed has the right to obtain confirmation from the controller as to whether or not personal data concerning him are being processed. If that is the case, one must obtain access to those personal data and (among other things) the processing purposes, the categories of personal data involved, the recipients or categories of recipients to whom the personal data have been or will be provided, and the period during which the personal data are expected to be stored, or the criteria for determining that period.
+
+Is the pseudonym ' [profile name] ' personal data?
+
+4.2.
+
+First of all, there is a dispute between the parties as to whether the pseudonym ' [profile name] ' is personal data. [respondent] disputes this because it is not identifiable. In the contact, the pseudonym ‘ [profile name] ’ was always used and never the name ‘ [applicant] ’. She disputes that [applicant] is hiding behind the pseudonym. According to [applicant], the pseudonym is personal data, because it can be linked to him via the IP address that [respondent] processes. By invoking the Lycos/Pessers judgment (in the event of copyright infringement) or by providing the data to the public prosecutor (if he commits a crime), [respondent] can link the pseudonym to him via the IP address. [respondent] has argued that there is no reason to assume that the public prosecutor or the internet provider would respond positively to a request from her for identification on the basis of the dynamic IP numbers used.
+
+4.3.
+
+The court considers as follows. ‘Personal data’ is understood to mean all information about an identified or identifiable person. Pseudonymised data that can be linked to a natural person through the use of additional data must also be regarded as data about an identifiable natural person. At the oral hearing, [applicant] demonstrated that he is hiding behind the profile ‘[profile name]’ by showing the judge that he can log in to this profile on the forum. It follows that the pseudonym can be linked to [applicant]. [Respondent] then abandoned its primary defence. The answer to the question of whether [Respondent] can link the profile to [Applicant] via the IP address can therefore be omitted.
+
+Is [defendant] entitled to rely on the journalistic exception?
+
+4.4.
+
+[defendant] relies on the journalistic exception of article 43 GDPR. To this end, she argues that, although she herself does not post any journalistic content on the forum, the forum is part of a journalistic package (television program and an extensive website) that is aimed at serving the public with information, opinions and ideas. She therefore has a major interest in the ‘freedom of expression’ at the forum. Moreover, the obligation to provide access to communications with and between users would have a cooling effect, because users would then wonder whether they still want to participate. This must be prevented.
+
+4.5.
+
+The court considers that the provisions in the GDPR specifying the rights of the data subjects (including the right of access) do not apply to the processing of personal data for journalistic purposes. It follows from the preamble to the GDPR that, given the importance of the right to freedom of expression in every democratic society, the concepts relating to that freedom, such as journalism, must be interpreted broadly. In its judgment of 16 December 2008, the Court of Justice of the European Union (CJEU) ruled that the processing of personal data ‘exclusively for journalistic purposes’ as referred to in Article 9 of the Privacy Directive exists if the sole purpose of that processing is to make information, opinions or ideas known to the public, regardless of the transmission medium. Whether the publication to the public also has a profit motive is not relevant in this respect.
+
+4.6.
+
+In the court’s opinion, the processing of personal data as carried out by [defendant] is not journalistic processing. [Defendant] is merely a hosting provider with regard to the forum. In that context, it offers a platform to third parties for posting articles and comments. It only moderates whether those messages comply with its house rules. It does not make its own journalistic contributions on the forum itself. In other words; she offers third parties a digital "bulletin board" for articles and reactions without a personal contribution. In that context, her work cannot be regarded as a journalistic activity. The fact that the forum is part of the package with a television program and an extensive website does not change that. The [respondent]'s appeal to the journalistic exception therefore fails.
+
+Does [applicant] have an interest in access?
+
+4.7.
+
+[respondent] has further argued that [applicant] only made the request to retrieve deleted or changed messages and judgments from and about others. This also follows from his request of 14 June 2021, which only concerns information regarding the personal dispute with another forum participant. [applicant] only made his request because he wants to continue the discussions with the other forum participants and wants to question decisions taken during moderation, according to [respondent].
+
+4.8.
+
+It is stated in advance that a data subject does not in principle have to motivate or substantiate why he/she makes a request for access under the GDPR. When exercising his/her right of access, the data subject does not have to state a specific interest or the purpose that he/she wants to achieve with the access. The mere fact that data about him/her is being processed and that he/she wants to check whether the processing is correct and lawful is sufficient. This does not mean that a request for access can never constitute abuse of authority. This may be the case, for example, if the right of access is used for a purpose other than checking whether personal data is being processed correctly and lawfully. It is up to the controller to demonstrate abuse of authority.
+
+4.9.
+
+[Respondent] has not sufficiently substantiated that the purpose of [applicant] in his request for access only concerns a purpose other than checking whether the personal data has been processed correctly and lawfully. This means that there is no abuse of authority and that he/she has no interest in access.
+
+What data is [applicant] entitled to?
+
+4.10.
+
+The right of access is limited to personal data. This concept must be interpreted broadly. In its judgment of 20 December 2017, the Court of Justice of the European Union considered that the concept of personal data potentially extends to any type of information, both objective and subjective, concerning the data subject. The latter is the case if the information is linked to a natural person due to its content, purpose or effect. This means that if the data partly determine the way in which the data subject is assessed or treated in society, those data are considered personal data. Not only data on the basis of which a natural person can be identified, but also factual or valuing data about the characteristics, opinions or behaviour of a person are therefore personal data. To the extent that such data are processed automatically or appear in files, the right of access applies to them.
+
+4.11.
+
+Article 15 paragraph 3 GDPR stipulates that the data subject must be provided with a copy of the personal data that are processed. However, the right of access does not mean that the data subject automatically has the right to all documents (copies/files) containing the personal data. If there is an alternative way to provide access, such as providing a complete overview of the processed personal data, then that is sufficient. The starting point is that the data subject is given the opportunity to take note of his data and to check whether it is correct and has been processed lawfully. The form in which access to personal data must be provided therefore depends on the circumstances.
+
+4.12.
+
+It also follows from the above that in the case of a generally formulated request for access from the controller, in principle it can only be expected that it conduct a general investigation into the personal data it has processed from the data subject and therefore also provide a general overview. In the case of a more specifically formulated request, this is different. In that case, a controller can be expected to conduct a more in-depth investigation and provide a specific overview.
+
+4.13.
+
+At the oral hearing, [defendant] provided an overview of the personal data it has processed from ‘ [profile name] ’. In the overview, it distinguishes between three categories:
+
+what is online;
+
+personal messages from the moderator. A distinction is made between messages that the moderator has sent to ‘ [profile name] ’ and messages that the moderator has sent to other users in which the name ‘ [profile name] ’ is mentioned. These messages are generally about the user’s behavior and are stored for a limited period of about half a year.
+
+logs of (old) articles/reactions. These can be divided into three subcategories. The first subcategory concerns the actions of the moderator with regard to a message. The name of the ‘topic’ is registered, who the message was from, whether the message was deleted or changed and sometimes also the reason. The messages themselves are deleted. The second subcategory concerns the actions of the moderator with regard to an entire ‘topic’. The ‘topics’ are sometimes stored separately if there is a fear that a (legal) dispute will arise about this. The third subcategory concerns the actions of a user himself. The name of the ‘topic’, the IP address and that something has been deleted are registered. The original message is gone.
+
+4.14.
+
+[Applicant]'s request concerns the provision of personal data relating to each violation of the house rules. At the oral hearing, [Applicant] further explained that he does not want copies of all messages, but of the text fragments that [Respondent] stores or keeps in private, as he is not aware of those messages. It is stated in advance that insofar as [Applicant] requests access to which house rule he has violated, the opening message and messages from others and/or the moderator (in which his personal data do not appear), this does not concern personal data and therefore does not fall under the right of access.
+
+It is not disputed that [Applicant] has posted an enormous amount of messages (approx. 20,000) on [Respondent]'s forum and that [Respondent] has therefore processed a lot of [Applicant]'s personal data. Partly for this reason, [Applicant]'s request for access is general, so that [Respondent] only had to conduct a general investigation into the personal data processed by it from [Applicant] and can suffice with a general processing overview. In the opinion of the court, [respondent] has complied with the right of access in light of [applicant]'s generally formulated request with the processing overview she submitted at the hearing. This overview enables [applicant] to take note of the personal data that [respondent] has processed about him and to check whether they are correct and have been processed lawfully. This means that [applicant]'s request referred to in 3.1. of this decision under 1. is rejected.
+
+4.15.
+
+To the extent that [applicant] wishes to have access to his messages deleted by (the moderator of) [respondent], it is up to him to indicate his request to [respondent] more specifically and concretely. For example, by means of an article/topic. To the extent that these have not yet been deleted, [respondent] must also submit the messages that [applicant] wrote under his pseudonym. However, it remains the case that [applicant] is not automatically entitled to a copy of the messages of others.
+
+4.16.
+
+The court notes that the processing overview submitted by [defendant] at the hearing lacks the information as described in Article 15 paragraph 1 under a to h GDPR. [defendant] did not say anything about this. Since it has not been demonstrated that this has been met in any other way and [defendant] has not put forward a specific defence on this point, [defendant] must therefore still provide this information. The principles that the court considered in this order also apply here.
+
+The penalty payment
+
+4.17.
+
+The court sees no reason to attach a penalty payment to the conviction, as requested by [applicant]. The reason for this is that the conviction only serves to submit the general information as described in Article 15 paragraph 1 under a to h GDPR. The (financial) interest of the conviction is relatively limited and [defendant] has not shown itself to be unwilling with the information provided at the hearing.
+
+The costs of the proceedings
+
+4.18.
+
+Since the request is granted in part and [defendant] only provided an overview during the course of these proceedings, she is obliged to reimburse the court fee paid by [applicant].
+
+4.19.
+
+This means that [defendant] is ordered to pay the costs of the proceedings, which to date have been estimated on the side of [applicant] at the court fee of € 314.00, with the statutory interest as requested. Since [applicant] has not engaged an authorised representative or lawyer, there is no room for a further award of costs.
+
+5The decision
+
+The court:
+
+5.1.
+
+orders [defendant] to provide [applicant] with the information as described in article 15 paragraph 1 under a to h GDPR within 30 days after the date of this decision;
+
+5.2.
+
+orders [defendant] to pay the legal costs, to date estimated at € 314.00 in court fees on the side of [applicant], to be increased by the statutory interest from 30 days after the date of this order if payment has not been made within this period;
+
+5.3.
+
+declares these orders provisionally enforceable;
+
+5.4.
+
+dismisses the additional or different request.
+
+This order was issued by Mr. J.P. Killian and pronounced in public on 4 January 2023.
+
+______________________________
+
+Article 4 paragraph 1 GDPR.
+
+Recital 26 preamble to GDPR.
+
+______________________________
+
+Article 43 paragraph 2 opening words and under b UAVG read in conjunction with Article 85 GDPR.
+
+Recital 153 of the preamble to GDPR.
+
+Directive 95/46/EC, which directive has been continued in the GDPR.
+
+ECJ 16 December 2008, C-73/07 , ECLI:C:2008:727 (Satamedia), r.o. 62.
+
+______________________________
+
+ECJ, 20 December 2017, no. C-434/16, ECLI:EU:C:2017:994 (Nowak).
+
+______________________________
+
+See, inter alia: ECJ 17 July 2014, C-141/12 and C-372/12, ECLI:EU:C:2014:2081 (IND); the Opinion of Advocate General Drijber of 9 November 2018, ECLI:NL:PHR:2018:1273; ABRvS 3 March 2021, ECLI:NL:RVS:2021:452.
+
+type:
+
+coll:

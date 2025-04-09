@@ -1,0 +1,40 @@
+RvS - 202107090/1/A3
+Jump to:navigation, search
+RvS - 202107090/1/A3
+Courts logo1.png
+Court:	RvS (Netherlands)
+Jurisdiction:	Netherlands
+Relevant Law:	Article 17(3)(b) GDPR
+Archiefwet
+Decided:	12.07.2023
+Published:	12.07.2023
+Parties:	Uitvoeringsinstituut Werknemersverzekeringen
+National Case Number/Name:	202107090/1/A3
+European Case Law Identifier:	ECLI:NL:RVS:2023:2681
+Appeal from:	Rb. Noord-Holland (Netherlands)
+20/4820
+Appeal to:	
+Original Language(s):	Dutch
+Original Source:	Raad van State (in Dutch)
+Initial Contributor:	Enzo Marquet
+The Dutch Council of State confirmed that personal data deletion is prevented when processing is necessary for the exercise of official authority vested in the controller in accordance with Article 17(3)(b) GDPR.
+
+
+Contents
+1 English Summary
+1.1 Facts
+1.2 Holding
+2 Comment
+3 Further Resources
+4 English Machine Translation of the Decision
+English Summary
+Facts
+The data subject requested the Employee Insurance Agency (a governmental organisation, controller), to delete her phone number because she no longer wanted to be contacted by them. She also requested the erasure of her phone number from two messages stored in the digital 'mailbox' of the controller.
+
+The controller deleted her number for contacting purposes, but refused to delete her number from the digital mailbox. It argued that these documents were part of its social security files and had to be stored on the basis of a legal obligation arising from the Archiefwet (Archive Law).
+
+The data subject brought an action with the Court of Noord-Holland (case 20/4820). The Court considered that the controller was not obligated to delete the phone number from its files. She appealed this decision with the Council of State, claiming that the controller unlawfully processed her data and that it was not necessary to store it. In her view, the Archiefwet did not provide a legal basis for processing in the specific case and it breached the principles of minimisation, lawfulness and necessity.
+
+Holding
+The Dutch Council of State considered that the data subject did not bring additional arguments than in first instance and that the Court of Noord-Holland adequately motivated its decision. The Council of State also held that if there is a legal obligation to store files in the exercise of official authority vested in the controller, then the right to erasure under Article 17 is not applicable as long as the retention period runs, as stated in Article 17(3)(b). Archiving as such does not breach the GDPR. Consequently, the Council declared the appeal unfounded.
+

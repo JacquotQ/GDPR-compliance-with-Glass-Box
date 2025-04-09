@@ -1,0 +1,403 @@
+Registered office in Vienna:
+Erdbergstrasse 192 – 196, 1030 Vienna
+Tel: +43 1 601 49 – 0
+Fax: +43 1 711 23-889 15 41
+www.bvwg.gv.at
+Decision date
+December 16, 2024
+Reference number
+W137 2292450-1/4E
+IN THE NAME OF THE REPUBLIC!
+The Federal Administrative Court has Judge Mag. Peter HAMMER as chairman
+and the expert lay judges Mag. Ursula ILLIBAUER and MMag. Jakob KALINA
+
+as assessors on the complaint of XXXX, represented by Altenweisl Wallnöfer
+Watschinger Zimmermann RAe GmbH, against the decision of the data protection authority dated
+
+April 10, 2024, GZ. D124.1941/23, 2024-0.085.514, rightly ruled:
+
+A)
+
+The complaint is upheld and the contested decision is corrected without replacement.
+
+B)
+
+The appeal is not admissible according to Art. 133 Para. 4 B-VG.
+
+Reasons for the decision:
+
+I. Procedure:
+
+1. With a procedural submission dated August 21, 2023, improved with a written submission dated August 31, 2023, XXXX (= co-involved party before the Federal Administrative Court and
+applicant before the data protection authority) filed a data protection complaint explicitly against
+
+XXXX (= complainant before the Federal Administrative Court and respondent - 2 -
+
+before the data protection authority; hereinafter also: XXXX ) for violation of the right to
+
+confidentiality. The main justification was that XXXX had brought a lawsuit against the
+
+complainant alleging that membership fees had been
+
+increased without the consent of its customers. In the course of the court proceedings, an email correspondence between the co-involved party and the
+
+complainant was then presented as evidence. The
+
+XXXX's lawyer had informed the co-involved party of this.
+
+The complainant therefore disclosed the data of the co-involved party (name and email address) as well as the fact that she was a customer of hers without her consent.
+
+In addition, the co-involved party was summoned as a witness by the Regional Court XXXX (hereinafter: LG) in this context.
+
+2. In a statement dated September 20, 2023, the complainant essentially stated the following about the data protection complaint:
+
+She runs several fitness centers, including the one in XXXX, where the co-involved party is a member.
+
+The complainant only forwarded the email correspondence with the co-involved party to her lawyer because it was relevant to the legal dispute with XXXX. No other personal data, however, was passed on.
+
+3. In a letter dated September 29, 2023, the complainant stated the following in addition:
+
+The data processing was necessary to fulfill the contractual relationship and the
+
+use of the data in question in the court proceedings served its legitimate
+
+interests. The submission of the email correspondence only served to generally
+
+illustrate the processing of contractual relationships between the
+
+complainant and its customers, without going into detail about the individual
+
+contractual relationship with the co-involved party. The correspondence with the
+
+co-involved party was selected because it particularly well reflected the complainant's point of view, which is important for the
+
+court proceedings.
+
+4. By decision of April 10, 2024, GZ. D124.1941/23, 2024-0.085.514, the
+
+Data Protection Authority upheld the data protection complaint of August 21, 2023 and found that
+
+the complainant had violated the co-involved party's right to confidentiality
+
+by unlawfully transmitting an email correspondence between the complainant and the
+
+co-involved party on XXXX beyond the required extent. - 3 -
+
+In this decision, the Data Protection Authority essentially made the following
+
+factual findings:
+
+The complainant operates several fitness centers, including a fitness center in XXXX
+
+where the co-involved party has been a member since XXXX.
+
+As part of their membership agreement, the co-involved party did not consent to any
+
+disclosure of their personal data.
+
+The complainant is in a legal dispute with XXXX at the LG. The content of this procedure is the increase in fees by the complainant without the consent of her customers. The complainant submitted an email correspondence with the other party involved on XXXX as evidence to generally illustrate the processing of contractual relationships between her and her customers. On the basis of these findings of fact, the data protection authority concluded the following in legal terms: The complainant cites Art. 6 (1) (b) and (f) GDPR as the legal basis for data processing. The complainant is correct in saying that fundamental data processing is necessary to fulfill the contractual relationship, but data processing to fulfill the contract is not the subject of the complaint. Rather, data processing outside the contractual context should be examined in civil court proceedings with a third party. Art. 6 para. 1 lit. b GDPR is therefore not applicable to the facts in question.
+
+It must therefore be examined whether the legitimate interests of the complainant within the meaning of Art. 6 para. 1 lit. f GDPR or Section 1 para. 2 DSG justify the intervention.
+
+According to the established case law of the ECJ, three conditions are necessary for an appeal to Art. 6 para. 1 lit. f GDPR:
+
+a) the controller or third parties must have a legitimate interest;
+
+b) the processing of the personal data must be necessary to achieve the legitimate interest and
+
+c) the interests or fundamental rights and freedoms of the person whose data should be protected must not prevail. The transmission of email correspondence with a customer was in principle a
+
+suitable means of proving the complainant's allegations in the proceedings, - 4 -
+
+however, this would have been possible even without naming the specific customer.
+
+The transmission of email correspondence without blacking out the personal data
+
+of the co-participating party was therefore not necessary for the purpose of asserting, exercising or
+
+defending legal claims and, against this background, in the present case it can be assumed that the co-participating party had an overriding interest in keeping its data
+
+confidential.
+
+5. In the appeal against this decision, which was lodged within the deadline, the
+
+complainant essentially argued:
+
+Restrictions on the right to confidentiality are permissible under Section 1 Paragraph 2 of the Data Protection Act, among other things,
+
+if the use of the personal data is justified by the overriding legitimate interests of a third party. According to the case law of the ECJ, the submission as evidence in court proceedings constitutes further processing that changes the purpose. This must be based on a national processing basis - such as a provision of civil procedure law (cf. Section 83 Para. 1 GOG). Furthermore, the further processing must be a necessary and proportionate measure in a democratic society within the meaning of Art. 6 Para. 4 GDPR and pursue one of the objectives of Art. 23 Para. 1 GDPR. All of these requirements are also met in the present case. In the present case, the authority concerned wrongly assumed that the data processing to this extent was not necessary to achieve the purpose, because it would not have been sufficient to submit blacked-out documents as evidence in civil proceedings. The complainant had to submit messages as evidence in the court proceedings against XXXX in order to prove that individual agreements with customers had actually taken place. It was therefore crucial and necessary that the evidence, specifically the email correspondence with the other party involved, was presented unredacted.
+
+The data processing in the chosen form was therefore suitable for achieving the desired goal, appropriate for the purpose and necessary. In addition, the purpose could not have been achieved by
+
+less means. If the email correspondence had been redacted,
+
+the complainant would not have been able to prove that it was a
+
+conversation with one of the complainant's customers. Thus, the
+
+data processing was limited to the bare minimum.
+
+Even when balancing interests, the interests of the
+
+complainant would prevail in the present case, since she had to defend herself in court proceedings.
+
+The emails presented in court proceedings were evidence that had undoubtedly refuted accusations made by XXXX.
+
+It is requested that the Federal Administrative Court amend the contested decision so that the data protection complaint is rejected; if necessary, correct the contested decision and refer it back to the authority concerned for a new decision.
+
+6. By letter from the Data Protection Authority dated June 4, 2024, received on June 5, 2024, the complaint and the administrative act were sent to the Federal Administrative Court. In it, reference was made to the decision and the rejection of the complaint was requested.
+
+II. The Federal Administrative Court considered:
+
+1. Findings:
+
+The complainant is the operator of a fitness center in XXXX.
+
+The party involved, who has been a member of the complainant or of this fitness center since XXXX, has not given the complainant consent to pass on his personal data for marketing purposes or to "improve the range of services".
+
+Legal proceedings between the complainant and XXXX are pending before the regional court, in which the complainant is accused of having increased membership fees without the consent of its customers.
+
+As part of these legal proceedings, the complainant's lawyer, not the complainant herself, submitted an email correspondence with the co-involved party dated XXXX to the regional court on XXXX as evidence to generally illustrate the handling of contractual relationships between the complainant and her customers, in particular with regard to the increase in membership fees and the current consent of her customers. The correspondence shows the name and email address of the co-involved party. The co-involved party was subsequently summoned as a witness on XXXX. The XXXX lawyer had previously received the evidence in question as a party to the proceedings and had written directly to the co-involved party on XXXX, attaching the court appendix "./4" with the stamped note "submitted by XXXX Rechtsanwälte GmbH" to his letter. In this cover letter, he stated verbatim: "In this - 6 -
+
+proceeding, XXXX has submitted the attached email from you." The party involved
+
+filed the complaint that triggered the proceedings to the DSB on August 21, 2023, with "XXXX" explicitly defined as the respondent.
+
+In the contested decision (point C.3.), the DSB states "The
+
+respondent submitted an email correspondence with the
+
+complainant on XXXX as evidence (...)." This finding turns out to be correct under procedural law, but incorrect with regard to the immediate transmission process.
+
+2. Assessment of evidence:
+
+The findings on the relevant facts arise from the administrative act, the
+
+complaint and the court file.
+
+The refusal to pass on personal data refers to point 8 of the
+
+membership agreement (advertising/data protection) and, according to the wording, concerns the
+
+forwarding of personal data to "the XXXX for marketing purposes".
+
+It is undisputed that the forwarding of the email correspondence on
+
+XXXX, which is the subject of the proceedings, was carried out (immediately) by a lawyer to the court. The XXXX became aware of this as a party to the proceedings, its lawyer as a representative in the proceedings. The
+
+content of the letter from the XXXX lawyer dated XXXX is evident from the
+
+administrative act.
+
+The findings on the first instance decision are derived from this. The fact that the
+
+transmission process was carried out directly by the lawyer is clear from the
+
+file. The procedural allocation/attribution of the lawyer's actions to his client must be separated from this.
+
+3. Legal assessment:
+
+3.1. According to Article 130, Paragraph 1, Item 1 of the Federal Constitutional Court, the administrative courts decide on complaints
+against the decision of an administrative authority on the grounds of illegality.
+
+According to Section 6 of the Federal Administrative Court Act, the Federal Administrative Court decides by a single judge, unless
+
+federal or state laws provide for a decision by a senate.
+
+According to Section 27, Paragraph 1 of the Data Protection Act, the Federal Administrative Court decides by a senate on
+
+complaints against decisions due to violation of the duty to inform pursuant to
+
+Section 24, Paragraph 7 leg.cit. and the duty of the data protection authority to decide. According to Section 27, Paragraph 2 - 7 -
+
+first sentence of the Data Protection Act, the senate consists of a chairman and one expert
+
+lay judge each from the circle of employers and from the circle of employees.
+
+The senate is therefore responsible for the matter.
+
+The procedure of the administrative courts, with the exception of the Federal Finance Court, is regulated by the VwGVG, BGBl. I 2013/33 as amended by BGBl. I 2013/122 (§ 1 leg.cit.). According to § 59 para. 2 VwGVG, conflicting provisions that were already published at the time of entry into force of this federal law remain in force. According to Section 17 VwGVG, unless otherwise provided in this federal law, the provisions of the AVG with the exception of Sections 1 to 5 and Part IV, the provisions of the Federal Fiscal Code - BAO, Federal Law Gazette No. 194/1961, the Agricultural Procedure Act - AgrVG, Federal Law Gazette No. 173/1950, and the Civil Service Procedure Act 1984 - DVG, Federal Law Gazette No. 29/1984, and, in addition, those procedural provisions in federal or state laws that the authority applied or should have applied in the procedure preceding the procedure before the administrative court, shall apply mutatis mutandis to the procedure on complaints pursuant to Article 130 Paragraph 1 B-VG.
+
+3.2. According to Section 31 Paragraph 1 VwGVG, decisions and orders are made by
+resolution, unless a ruling is to be made.
+
+According to Section 28 Paragraph 1 VwGVG, the administrative court must settle the legal matter by ruling, unless the complaint is to be rejected or the proceedings are to be discontinued.
+
+According to Section 28 Paragraph 2 VwGVG, the administrative court must decide on complaints on the merits itself if the relevant facts are established or if the establishment of the relevant facts by the administrative court itself is in the interest of speed or is associated with considerable cost savings.
+
+To A)
+
+3.3. The relevant provisions of the DSG
+
+Article 1
+
+(constitutional provision)
+
+Basic right to data protection
+
+Section 1. (1) Everyone has the right to keep personal data concerning him or her confidential, in particular with regard to respect for his or her private and family life, insofar as there is a legitimate interest in doing so. The existence of such an interest is excluded if data cannot be subject to a confidentiality claim due to their general availability or their inability to be traced back to the data subject. (2) If the use of personal data is not in the vital interest of the data subject or with his consent, restrictions on the right to confidentiality are only permissible to protect the overriding legitimate interests of another person, and in the case of interventions by a state authority only on the basis of laws that are necessary for the reasons stated in Article 8 paragraph 2 of the European Convention for the Protection of Human Rights and Fundamental Freedoms (ECHR), Federal Law Gazette No. 210/1958. Such laws may only provide for the use of data that are particularly worthy of protection by their nature to protect important public interests and must at the same time establish appropriate guarantees for the protection of the data subject's interests in confidentiality. Even in the case of permissible restrictions, the interference with the fundamental right may only be carried out in the mildest way that achieves the objective. (3) Everyone has, insofar as personal data concerning him or her are intended for automated processing or for processing in files kept manually, i.e. without automated support, in accordance with statutory provisions: 1. the right to information about who is processing which data about him or her, where the data comes from and what it is used for, in particular to whom it is transmitted; 2. the right to correct incorrect data and the right to delete data that has been processed unlawfully. (4) Restrictions on the rights under paragraph 3 are only permissible under the conditions set out in paragraph 2. Complaint to the data protection authority
+
+§ 24. (1) Every data subject has the right to complain to the data protection authority
+
+if they believe that the processing of personal data concerning them violates the GDPR or § 1 or Article 2, Chapter 1.
+
+(2) The complaint must contain:
+
+1. the designation of the right deemed to have been violated,
+
+2. as far as this is reasonable, the designation of the legal entity or body to which the
+
+alleged violation of law is attributed (respondent),
+
+3. the facts from which the violation of law is derived,
+
+4. the reasons on which the allegation of illegality is based,
+
+5. the request to establish the alleged violation of law and
+
+6. the information required to assess whether the complaint was submitted in time. - 9 -
+
+(3) A complaint must be accompanied by the underlying application and any
+
+response from the respondent, if applicable. In the event of a complaint, the data protection authority must provide further support at the request of the person concerned. (4) The right to have a complaint dealt with shall expire if the complainant does not lodge it within one year of becoming aware of the event giving rise to the complaint, but at the latest within three years of the event allegedly occurring. Late complaints shall be rejected. (5) If a complaint proves to be justified, it shall be acted upon. If a violation is attributable to a controller in the private sector, he shall be instructed to comply with the complainant's requests for information, correction, deletion, restriction or data transfer to the extent necessary to remedy the violation of law identified. If the complaint proves to be unjustified, it shall be rejected.(6) Until the proceedings before the data protection authority are concluded, a respondent can subsequently remedy the alleged violation of law by complying with the complainant's requests. If the data protection authority considers the complaint to be irrelevant, it must hear the complainant on the matter. At the same time, the complainant must be made aware that the data protection authority will discontinue the proceedings informally if he does not explain within a reasonable period of time why he still considers the originally alleged violation of law to have not been eliminated, at least in part. If such a statement by the complainant changes the nature of the matter (Section 13 Paragraph 8 AVG), it must be assumed that the original complaint has been withdrawn and a new complaint has been submitted at the same time. In this case, too, the original complaint procedure must be discontinued informally and the complainant must be informed of this. Late statements must not be taken into account. (7) The complainant shall be informed by the data protection authority of the status and outcome of the investigation within three months of the complaint being lodged.
+
+(8) Any person concerned may refer the matter to the Federal Administrative Court if the data protection authority does not deal with the complaint or has not informed the person concerned of the status or outcome of the complaint within three months.
+
+(9) The data protection authority may – if necessary – involve official experts in the proceedings.
+
+(10) The following are not included in the decision period pursuant to Section 73 AVG:
+
+1. the time during which the proceedings are suspended until a final decision on a preliminary issue is made;
+
+2. the time during proceedings pursuant to Art. 56, 60 and 63 GDPR.
+
+The relevant provisions of the GDPR: - 10 -
+
+Article 4 - Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(…)
+
+7. "controller" means the natural or legal person, public authority, agency or
+
+other body which, alone or jointly with others, determines the purposes and means of
+
+processing personal data; where the purposes and means of such
+
+processing are specified by Union or Member State law,
+
+the controller or the specific criteria for its nomination may be provided for by Union or Member State law;
+
+8. "processor" means a natural or legal person, public authority, agency or
+
+other body which processes personal data on behalf of the controller;
+
+(…)
+
+3.4. The data protection authority stated the following in its decision of December 6, 2021 regarding the transfer of health data by a lawyer: First of all, it should be noted that lawyers, when they process data for the purpose of representing their clients, regularly act as data controllers. Although they act under power of attorney and are thus authorized to make legally binding statements on behalf of their clients, the decision as to which data of third parties is to be processed in order to fulfill the mandate is made by the lawyer without instructions from the client, subject to proof to the contrary. Any other understanding of the relevant roles of the
+
+controller (Art. 4 Z 7 GDPR) or processor (Art. 4 Z 8 GDPR) would be incompatible with
+
+the independence of a lawyer in matters of professional practice (see the considerations of the data protection authority in the decision of March 9, 2015, GZ. DSB-
+
+D122.299/0003-DSB/2015, RIS, as well as the considerations of the Federal Administrative Court on
+
+the role of the controller and independence of professional practice for professional detectives,
+
+decision of June 25, 2019, Zl. W258 2188466-1, RIS, and court experts,
+
+decisions of September 27, 2018, Zl. W214 2196366-2, RIS, and of January 23 2020,
+
+Zl. W214 2196366-3, RIS).
+
+(…)
+
+The rights of the data subject (in the sense of Art. 4 Z 1 GDPR) should only be applied if and only to the extent that this does not conflict with the lawyer's right to
+
+confidentiality to protect the party or the rights and freedoms of other persons or
+
+the enforcement of civil law claims. "This is necessary because
+
+otherwise there would be a risk that, for example, the (litigation) opponent in a civil law
+
+dispute could obtain information from the opposing lawyer's - 11 -
+
+documents and files by way of the right to information and disclosure under the GDPR, which would be diametrically opposed to the interests
+
+of the party represented by the latter. In view of the variety of possible constellations here, it is also clear that a general assessment (and order) in advance as to whether and to what extent this restriction applies is not possible; this must instead be examined and assessed on the basis of the specific circumstances of the individual case." (ErlRV 65 BlgNR 26. GP 160).
+
+Paragraph 3a came into force on May 25, 2018 (Section 60 Paragraph 10) (Lehner in
+Engelhart/Hoffmann/Lehner/Rohregger/Vitek, RAO10 Section 9 (as of September 15, 2018, rdb.at), paragraph 60).
+
+Article 1, No. 7 of the Federal Law Gazette I No. 61/2019 gave the previous Paragraph 3a the paragraph designation "(4)".
+
+As a result, it was established that a lawyer was entitled to process health data of a third party without their consent in an employment law process. The data protection authority has already stated in a previous legal situation in a decision dated January 22, 2018 (DSB-D122.767/0001-DSB/2018) on the client status of certain commissioned professional groups: According to Section 4 Z 4 DSG 2000, any natural or legal person, group of persons or bodies of a regional authority or the business apparatus of such bodies is considered a client if they have made the decision alone or jointly with others to use data (Z 8), regardless of whether they use the data themselves (Z 8) or commission a service provider to do so (Z 5). They are also considered to be clients if the service provider commissioned to produce a work (Z 5) decides to use data for this purpose (Z 8), unless this has been expressly prohibited or the agent has to decide on the use on his own responsibility due to legal provisions or rules of conduct. This means that accepting an order - which also includes the processing of personal data - does not make an agent or contractor a service provider within the meaning of Section 4 Z 5 DSG 2000 if he has a professional legal status that provides for the independent fulfillment of the order (cf. Kotschy in Yearbook of Public Law 2011, NWV, page 136 f). In connection with the new version of Section 4 Z 4 DSG 2000 through the DSG amendment 2010, the following is stated in the explanations to the government bill, 472 of the appendices XXIV. GP: The client status of those commissioned professional groups who decide independently on the use of data on the basis of legal provisions also remains unchanged (see the exemplary list of lawyers, chartered accountants and - 12 -
+
+civil engineers in the explanations to the government bill 1613 of the appendices XX. GP, 37, to the
+
+main version). Chartered accountants are obliged under Section 71 WTBG to exercise their profession conscientiously, carefully, independently and in compliance with the provisions contained in the fourth main section of the WTBG and the guidelines under Section 72 WTBG. Insofar as the respondent in its statement refers to the fact that the term "necessity" according to Section 71 WTBG is to be interpreted as meaning that a client may not give a professional person instructions of a professional nature, the respondent overlooks the fact that this is precisely the independent fulfillment of the order by the respondent within the meaning of Section 4 Z 4 last half-sentence DSG 2000. Similarly, the data protection authority – like the former data protection commission – has already stated several times regarding the client status of lawyers that, due to their professional independence, it can generally be assumed that lawyers may act “independently” when handling business for their clients in accordance with Section 4Z4, last half-sentence, of the Data Protection Act 2000 and are therefore clients with regard to the personal data processed for the purpose of dealing with a case (see decisions of the former data protection commission dated July 13, 2012, GZ: K121.810/0013-DSK/2012, or of the data protection authority dated October 27, 2014, GZ: DSB-D122.215/0004-DSB/2014, or dated March 9, 2015, GZ: DSB-D122.299/0003-DSB/2015).
+
+3.5. The subject of the proceedings is exclusively the transmission of the email correspondence
+
+(as evidence) on XXXX to the LG - the DSB did not address any other processing process in the
+
+contested decision. This was carried out by the lawyer of the
+
+complainant.
+
+3.6. In this transmission process, the lawyer of XXXX acted as an independent controller within the meaning of
+
+Art. 4 Z 7 GDPR and not as a processor, in accordance with the legal situation and case law set out above.
+
+The first instance complaint procedure should therefore have been conducted against the lawyer of XXXX and
+
+not against the company itself. Accordingly, the party involved
+
+named the wrong respondent in its complaint that triggered the proceedings. - 13 -
+
+3.7. According to §24(2)Z2DSG, the complaint must identify the respondent, provided that this is reasonable. The complainant received information about the data transfer through a letter from the lawyer of XXXX, whereby it is generally clear from the attachment sent with this letter that the (immediate) submission to the LG was made by a law firm (stamp and attachment name).
+
+At the same time, however, the lawyer who informed the co-participating party informed them
+
+(obviously only referring to procedural questions) that “the XXXX” had submitted the
+
+correspondence in the proceedings. However, the complainant, as a private individual who is not
+
+legally qualified, cannot be expected to know the above
+
+case law on the independent responsibility of lawyers in the area of data protection.
+
+He cannot be blamed either for not attaching any legal
+
+significance to the lawyer’s stamp on the correspondence –
+
+especially according to the wording of the lawyer’s letter dated XXXX.
+
+This means that it was not reasonably clear to the co-participating party
+
+who had carried out the transmission under point 3.5. and
+
+would therefore have been named as the respondent.
+
+Why this circumstance – despite relevant decision-making practice – was not noticed by the authority, and why it even made a factual finding that was inaccurate (in the context of data protection responsibility relevant to the proceedings), can remain undecided. 3.8. From the point of view of the Federal Administrative Court, the complainant’s lawyer and not the complainant herself is to be seen as the person responsible for data processing. The administrative court may not conduct the complaint proceedings against the lawyer instead of the complainant, which is why in such a case the decision of the data protection authority that is being contested must be overturned (“without replacement”). The proceedings are therefore again pending before the data protection authority for a substantive decision. For the sake of completeness, the Federal Administrative Court notes that the complainant in the membership agreement (point 8) did not consent to “any disclosure of his personal data” merely “for XXXX marketing purposes”. This is clear from the wording of the passage. It cannot be inferred from this that this passage would fundamentally preclude the passing on of data (for example to a court) despite the complainant's legitimate interest. 3.9. According to Section 24 Paragraph 1 of the Administrative Court Act, the administrative court must hold a public oral hearing on request or, if it considers this necessary, on its own initiative. The complainant, who is represented by a lawyer, has not made a request for a public hearing. In the present case, the failure to hold an oral hearing can also be based on the fact that the facts of the case have been clarified from the files. The Federal Administrative Court had to rule exclusively on a legal question (cf. ECHR June 20, 2013, Appl. No. 24510/06, Abdulgadirov/AZE, para. 34ff). According to the case law of the Constitutional Court, an oral hearing can be omitted if the facts are undisputed and the legal question is not particularly complex (VfSlg.
+
+17.597/2005; VfSlg. 17.855/2006; most recently VfGH 18.06.2012, B 155/12).
+
+According to Section 24 Para. 1 VwGVG, an oral hearing was therefore to be dispensed with.
+
+Regarding B) Inadmissibility of the appeal:
+
+According to Section 25a Para. 1 VwGG, the administrative court must state in its ruling or decision whether the appeal is admissible in accordance with Art. 133 Para. 4 B-VG. The ruling must be briefly justified.
+
+The appeal is admissible in accordance with Art. 133 para. 4B-VG is not permissible because the decision does not depend on the
+
+solution of a legal question that is of fundamental importance. The
+
+decision in question neither deviates from the previous case law of the
+
+Administrative Court, nor is there a lack of case law; furthermore, the
+
+present case law of the Administrative Court cannot be judged as inconsistent.
+
+There are also no other indications of a fundamental importance of the legal question to be resolved.
