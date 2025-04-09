@@ -1,0 +1,316 @@
+
+
+                                
+                            
+        
+
+
+
+    Body
+    Court of Amsterdam
+    Date of judgment
+    09-11-2021
+
+    Date of publication
+    
+17-11-2021
+
+    Case number
+    
+20/3251
+
+    
+    Jurisdictions
+    
+ European administrative law
+    
+    Special characteristics
+    
+bottom case
+First instance - multiple
+    
+    Content indication
+    
+Placing new cameras in the building by the VvE in this case does not violate the GDPR because of the limited infringement of the plaintiff's privacy and the built-in safeguards to protect the residents' right to privacy as much as possible. Appeal unfounded.
+
+    Locations
+    
+Rechtspraak.nl
+    
+        
+        
+            Enhanced pronunciation
+        
+
+
+
+
+
+    
+        Share pronunciation
+        
+    
+    
+        print
+        Save as PDF
+        Copy link
+
+    
+
+
+        
+            Pronunciation
+        
+        
+  
+    COURT OF AMSTERDAM
+    
+    
+      Administrative law
+     
+    
+    
+      case number: AMS 20/3251
+    
+    
+      decision of the multiple chamber of 9 November 2021 in the case between
+    
+      [plaintiff] , in Amsterdam, claimant,
+    
+    
+      and
+     
+    
+    the Dutch Data Protection Authority, defendant
+    
+      (agents: mrs. G. Spruyt and [name 1] ).
+      The following are participating in the proceedings as a third party: the Association of Owners [name apartment building] (the VvE), in Amsterdam
+      (Agents: A. Vermeer-Janse and [name 2] )
+     
+    
+  
+  
+    Process sequence
+    
+    
+      With a decision dated November 26, 2019 (the primary decision), the defendant rejected the plaintiff's request to take enforcement action in connection with the presence of security cameras in the apartment building in which she lives.
+     
+    
+    
+      With a decision of 7 May 2020 (the contested decision), the respondent declared the objection of the claimant against the primary decision unfounded.
+     
+    
+    
+      Plaintiff appealed against the contested decision.
+     
+    
+    
+      Defendant has filed a statement of defence.
+     
+    
+    
+      The hearing took place on May 19, 2021. Plaintiff was present. Defendant was represented by his attorneys. The VvE has also been represented by its authorized representatives.
+     
+    
+    
+      The court suspended the investigation during the hearing to give the VvE the opportunity to substantiate its statements about the decision-making within the VvE with regard to the placement of the cameras and to answer further questions posed by the court.
+     
+    
+    
+      On August 10, 2021, the court asked the parties whether they would like a further hearing. Plaintiff announced on August 12, 2021 that a further hearing could be omitted. Defendant and the VvE did not respond. The court subsequently ruled that a new hearing in application of Article 8:57 of the General Administrative Law Act (Awb) will not be conducted. The investigation is then closed.
+     
+    
+  
+  
+    Considerations
+    
+    
+      
+        What preceded this procedure
+      
+     
+    
+    
+      1. Plaintiff is a resident of an apartment in the [name of apartment building] and a member of the VvE as owner of the apartment right. The VvE has decided to renew the camera surveillance in this apartment building. Plaintiff does not agree with the installation of the new camera surveillance and has approached the defendant by e-mail dated November 26, 2018 to complain about this.
+     
+    
+    
+      2.1.
+      With the primary decision, the defendant has informed the plaintiff that it has not established a violation of standards within the meaning of the General Data Protection Regulation (GDPR). According to the defendant, the VvE has a legitimate interest in installing the cameras, as this allows it to protect its property and that of persons whose property has been entrusted to its care. If necessary, it can also make a substantiated report in the event of incidents using camera images. In that context, the defendant considered it important that various incidents involving intruders and damage had occurred in the past.
+      
+    
+    
+      2.2.
+      Defendant has taken the position that the use of camera surveillance is not disproportionate. The security cameras are aimed at the draft doors in the entrance hall and do not show the public road. The cameras also do not show more than is necessary to achieve the purpose of processing. According to the defendant, it has not been argued or shown that the purpose of processing can be achieved in a way that is less detrimental to the plaintiff. Moreover, protecting the properties of the VvE and its residents cannot be achieved in any other way.
+      
+    
+    
+      2.3.
+      Finally, the respondent takes the position that the right to privacy of the claimant does not outweigh the interests of the VvE, now that the infringement of the claimant's privacy when passing security cameras is limited to the moments when she is in the common areas. is located. In addition, the respondent is of the opinion that the VvE has built in sufficient safeguards to protect the right to privacy of the residents and visitors of the apartment building. For example, the images may only be requested against payment from the company that installed the cameras after permission from the police and they are stored for a maximum period of seven days. Passers-by are further informed about CCTV by stickers and a sign.
+      
+      3. With the contested decision, the defendant upheld the primary decision.
+      
+      
+        
+          The legal framework and the position of the plaintiff
+        
+       
+      
+      4. Article 6, first paragraph, preamble and under f, of the GDPR provides that the processing of personal data is only lawful if and insofar as at least the condition is met that the processing is necessary for the representation of the legitimate interests of the data subject. controller or of a third party, except where the interests or fundamental rights and freedoms of the data subject which require the protection of personal data override those interests, in particular where the data subject is a child.
+      
+      5. For a successful appeal to Article 6, first paragraph, preamble and under f, of the GDPR, three conditions must be met. The first condition is that the interest pursued by the controller is a legitimate interest. If this is the case, it must be assessed whether the processing of the personal data is necessary for the representation of that legitimate interest, whereby the proportionality and subsidiarity are also tested. In other words, is the infringement for the data subjects proportionate to the purpose to be served by the processing? And can the goal not be achieved in a way that is less detrimental to those involved? The third condition is that the interests of the controller and those involved must be weighed up.1
+      
+    
+    
+      6.1.
+      It is not disputed between the parties that there is a legitimate interest in the installation of (the new) security cameras in the hall of the apartment building that gives access to the plaintiff's apartment. The VvE's legitimate interest lies in protecting its property and that of persons whose property has been entrusted to its care. It also has a legitimate interest in being able to report incidents, if necessary, with support from camera images. Nor is it in dispute that various incidents involving intruders and damage have taken place in the past.
+      
+    
+    
+      6.2.
+      At issue is whether the requirements of proportionality and subsidiarity have been met and whether the interests of the Owners Association should outweigh the privacy interests of the Plaintiff. Plaintiff disputes that. Plaintiff also disputes that the security cameras are not aimed at the public road. She states that the security cameras can process biometric data. Central to Plaintiff's argument that the installation of cameras is not permitted is her view that the decision to install it was not lawful.
+      
+      
+        
+          The court's verdict
+        
+       
+      
+      
+        
+          The legality of decision-making
+        
+       
+      
+      7. The act of installing cameras is performed by the board, in its capacity as executing the duties of the VvE and, according to the board, as implementing decision-making within the VvE. There is no discussion about this between the parties. The administrative court assesses the lawfulness of the board's actions against the GDPR. The administrative court does not assess whether the board within the VvE has been given a sufficient mandate to perform that act. This has to do with the division of tasks between the administrative court and the civil court. Insofar as the placement of the cameras cannot be traced back to a legally valid decision of the members' meeting of the VvE, the claimant can contest that legal validity through association law; that is, through the general meeting of members or, if necessary, through the civil court.
+      
+      8. In these proceedings, the court is based on what has become known with the submitted documents about the decision-making in the members' meeting and about the implementation of decisions by the board. That is, in 2012, the VvE decided on a security plan that included the installation of security cameras. In 2018, the VvE replaced these cameras with cameras with better facial recognition. The cameras are placed in all common areas of the apartment building and are aimed at access roads and elevators.
+      
+      
+        
+          Has the necessity requirement been met?
+        
+       
+      
+      
+        
+          The proportionality
+        
+       
+      
+    
+    
+      9.1.
+      As already considered under 8, the cameras are aimed at the common areas of the apartment building, the access roads and elevators to the apartments. At the hearing, the VvE explained, without being contradicted, that, insofar as the public road is partially or not visible, passers-by are not properly visualized due to backlighting. The court sees no reason to doubt this explanation. Plaintiff is therefore not followed in her assertion that the security cameras are (also) aimed at the public road, which position has not been substantiated in fact.
+      
+    
+    
+      9.2.
+      Plaintiff is also not followed in her assertion that the security cameras can process biometric data. Although the cameras allow for better facial recognition than the cameras previously used on site, the newly installed cameras have not been shown to process biometric data. Based on the information provided by the parties about the newly installed cameras, the court determines that these are regular security cameras that provide sharper images than the cameras that have been replaced. The decision to renew was taken based on the need to get a clearer picture of people at the moment that a report has to be made and to be able to recover damage from the person causing the damage. The ground of appeal therefore fails.
+      
+      
+        
+          The subsidiarity
+        
+       
+      
+    
+    
+      9.3.
+      At the hearing, the claimant argued that the VvE could have decided on less far-reaching security measures than camera surveillance, namely by installing better locks and by drawing up a resident's protocol and supervising compliance with it.
+      
+    
+    
+      9.4.
+      As already considered above, the VvE has instituted camera surveillance with the aim of protecting its property and that of the residents and, if necessary, being able to file a substantiated report of security incidents as well as recovering damage caused to, for example, an elevator as a result of its unlawful use. The court has not shown that all these objectives can be achieved in a different, less drastic way.
+      
+    
+    
+      9.5.
+      In view of the foregoing, the court is of the opinion that the requirements of proportionality and subsidiarity have been met.
+      
+      
+        
+          Does the interest of camera surveillance prevail over the claimant's right to the protection of her privacy?
+        
+       
+      
+    
+    
+      10.1.
+      In the opinion of the court, the defendant could give more weight to the interest of the VvE in securing the communal properties and those of the residents and, if necessary, to file a substantiated report, over the plaintiff's interest in protecting her privacy. The court considers it important that it is ensured that the claimant (and persons who visit her) are not portrayed more than is necessary. In addition, the VvE has drawn up privacy regulations and has taken measures to limit the undesired consequences of camera surveillance as much as possible, such as deleting the images after – in any case – four weeks, protecting the video recorder with a password, placing that recorder in a closed room, limiting the VvE members who are allowed to check the images to the board and keeping log files of actions performed in a log. Passers-by are also informed about the camera surveillance.
+      
+    
+    
+      10.2.
+      The required permission from the police assumed by the defendant prior to being able to consult the images does not follow from the privacy regulations of the VvE, nor from the answers given by the VvE – with reference to information from the security company Roomsecure contracted by it. the questions posed by the court. With the sole statement of the VvE, this guarantee to limit the use of images has not become plausible. However, the court is of the opinion that the safeguards that do exist, as mentioned above, the protection of the privacy of the claimant is sufficiently safeguarded.
+      
+    
+    
+      11.1.
+      The court establishes that the factual situation as referred to under 10.1 and 10.2 has become clear after an appeal is pending, and after questions from the court and the VvE. This means that the defendant's decision-making was flawed in that sense, and that the defendant based the contested decision on other facts and circumstances, which subsequently turned out to be partly incorrect. In view of what was put forward by the claimant, it would have been up to the defendant in the administrative phase to conduct further investigation into the facts and circumstances that are important in the defendant's decision-making regarding subsidiarity and proportionality.
+      
+    
+    
+      11.2.
+      Now that these facts and circumstances have been established pending the appeal, and there is no reason to annul the contested decision on substantive grounds, there is reason, in the opinion of Article 6:22 of the General Administrative Law Act, to review the established defect in the defendant's decision-making process. pass.
+      
+      
+        
+          Conclusion
+        
+       
+      
+      11. The court concludes that with the contested decision the defendant has correctly maintained its refusal to act against the new installation of security cameras in the apartment building in which the plaintiff lives. That means that Plaintiff is not right. The appeal is unfounded.
+      
+      12. On the basis of what has been included under considerations 11.1 and 11.2, there is reason to pay the court fee paid by the claimant. There has been no evidence of legal costs on the part of the claimant and there is therefore no reason for compensation thereof.
+      
+    
+  
+  
+    Decision
+    
+    
+      The court:
+    
+    
+      -
+        declares the appeal unfounded;
+      
+      -
+        orders the defendant to reimburse the plaintiff for the court fee paid of € 178.
+      
+    
+    
+    
+      This statement was made by mr. M.M. Verberne, chairman, and mr. T.L. Fernig - Rocour and mr. M. Greebe, members, in the presence of mr. L.N. Linzey, clerk. The verdict will be pronounced in public on November 9, 2021.
+     
+    
+    
+          
+            
+              clerk
+            
+            
+              Chair
+            
+          
+        
+    
+    
+      A copy of this ruling has been sent to the parties at:
+     
+    
+  
+  
+    Do you disagree with this statement?
+    If you do not agree with this ruling, you can send a letter to the Administrative Jurisdiction Division of the Council of State explaining why you do not agree with it. This is called an appeal. You must submit this notice of appeal within 6 weeks of the day on which this decision was sent. You can see this date above.
+    
+  
+  
+1
+    See for this the judgment of the Court of Justice of 29 July 2019, no. C-40/17, ECLI:EU:C:2019:629.
+  
+
+
+    

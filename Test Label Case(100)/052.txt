@@ -1,0 +1,596 @@
+[New search] [Contents list] [Printable RTF version] [View ICLR summary: [2017] WLR(D) 106] [Help]
+
+Neutral Citation Number: [2017] EWCA Civ 74
+
+Case No: A3/2015/3077
+
+IN THE COURT OF APPEAL (CIVIL DIVISION)
+ON APPEAL FROM THE HIGH COURT
+(Chancery Division)
+HHJ Behrens sitting as a High Court Judge
+HC-2015-000177 [2015] EWHC 2366 (Ch)
+
+Royal Courts of Justice
+Strand, London, WC2A 2LL
+
+16/02/2017
+
+B e f o r e :
+
+LADY JUSTICE ARDEN
+LORD JUSTICE DAVID RICHARDS
+and
+LORD JUSTICE IRWIN
+____________________
+
+Between:
+
+Dawson - Damer & Ors
+Appellants
+
+- and -
+
+Taylor Wessing LLP
+
+The Information Commissioner
+Respondent
+
+Intervener
+
+____________________
+
+Jonathan Swift QC (instructed by McDermott Will and Emery LLP) for the Appellants
+Simon Taube QC, Timothy Pitt-Payne QC and James MacDougald (instructed by Taylor Wessing LLP) for the Respondent
+Anya Proops QC (instructed by the Information Commissioner) for the Intervener
+
+Hearing dates: 16  17 November 2016
+____________________
+
+HTML VERSION OF JUDGMENT APPROVED
+____________________
+
+Crown Copyright ©
+
+LADY JUSTICE ARDEN:
+
+overview of this appeal
+
+Appeal concerns a subject access request under the Data Protection Act 1998
+
+The appellants are Mrs Ashley Dawson-Damer and her two children, Piers Dawson-Damer and Adelicia Dawson-Damer, who are the adopted children of Mrs Dawson-Damer and her late husband, Mr John Dawson-Damer. The respondent ("TW") is a firm of solicitors who act for the trustee of a number of Bahamian trusts. Mrs Dawson-Damer is a beneficiary of one (known as the Glenfinnan Settlement) and all the appellants have benefitted from another. TW no longer act for the trustee of any trust of which second and third appellants are beneficiaries. For the purposes of this judgment, it is sufficient to refer only to the Glenfinnan Settlement.
+
+On 4 August 2014, the appellants served a subject access request ("SAR") ("the Request") under section 7(2) of the Data Protection Act 1998 ("DPA") on TW seeking personal data relating to themselves held by TW as solicitors for the trusts. The appellants considered that TW had not complied with their SARs and so they applied to the court for a declaration that TW had not complied with the Request and an order compelling TW to comply with their requests. The court has a discretion under section 7(9) DPA ("the section 7(9) discretion") whether to make such an order. By his order dated 6 August 2015, HHJ Behrens, sitting as a deputy Judge of the High Court of Justice, Chancery Division dismissed the application, and this appeal is against his order.
+
+The Appendix to this judgment sets out the relevant provisions of the DPA, Directive 95/46/EC ("the Directive") which the DPA is designed to implement and section 83 of The Bahamian Trustee Act 1998, to which I refer in paragraph 16 and later paragraphs of this judgment.
+
+Why the appellants served SARs on TW
+
+Full details of the background are set out in the judgment of the judge, and so I only need to provide an outline of the circumstances in which the appellants served their Request.
+
+In late 2013, the appellants learnt that, in 2006 and 2009, the trustee of the Glenfinnan Settlement had appointed some $402m from the Glenfinnan Settlement to new trustees to hold on new discretionary trusts for the benefit of the other discretionary beneficiaries, namely the children of the brother of Mrs Dawson-Damer's late husband. This left roughly $9m in the Glenfinnan Settlement. On 18 February 2014, the appellants' solicitors, McDermott Will & Emery LLP ("MWE"), challenged the validity of these appointments. It is common ground that the trustee was entitled to rely on litigation privilege following this letter.
+
+On 9 July 2014, TW responded to the appellants' allegation and stated that it had "now had an opportunity to review the many files".
+
+On 4 August 2014, the appellants' solicitors made the Request, seeking all data of which the appellants were the data subjects, enclosing the requisite fee.
+
+On 11 September 2014, TW replied, stating that the personal data it held was covered by legal professional privilege, and therefore exempted from disclosure under paragraph 10 of Schedule 7 to the DPA ("the Legal Professional Privilege Exception").
+
+On 30 September MWE wrote to TW stating that the appellants relied on the following principle
+
+Opinions of Counsel which are taken by the trustees, and other instructions to and legal advice obtained from the trustees' lawyers for the guidance of the trustees and the discharge of their functions as trustees, and paid from the trust fund, are not privileged against the beneficiaries. On 3 October 2014, TW again by letter asserted privilege, relying on Schmidt v Rosewood [2003] 2 AC 709.
+
+On 13 October 2014, MWE replied, contending that the only privilege on which TW could rely was litigation privilege.
+
+On 19 January 2015, the appellants began these proceedings, seeking a declaration that TW had failed to comply with their Request, and requesting an order requiring it to do so.
+
+On 20 March 2015, Mrs Dawson-Damer also commenced proceedings in the Supreme Court of The Bahamas against Grampian Trust Company Limited ("Grampian"), a company incorporated and resident in The Bahamas and the sole trustee of the Glenfinnan Settlement. In those proceedings she challenged (among other matters) the validity of the 2006 and 2009 appointments. It is unnecessary to explain the steps that have been taken in those proceedings. Suffice it to say that they are ongoing.
+
+Ms Ziva Robertson, a partner of MWE, states in her witness statement as follows:
+
+25 Taylor Wessing clearly has documents of which the Claimants are Data Subjects.  They would be bound to treat such documents as trust documents and would not dispose of them (nor do they claim to have done so) for some years after the trusts in question have come to an end.  Mr Morrison and Mr Burns are professional persons who, in execution of their fiduciary role, would be expected to liaise with legal advisers and trustees in London, The Bahamas, Bermuda, and Australia, and with beneficiaries in Scotland and Australia.  It is inconceivable that they are able to discharge such duties in a commercial environment without creating and maintaining computer records. 26  It is also unlikely that their paper files, which are bound to relate to one or more trusts for this family, are in such disarray that they cannot be said to constitute a relevant filing system under the Act. There are witness statements from two individuals who are advisers to the trustee. Between them they exhibit some 550 pages, in many cases redacted, which were produced in response to the SAR prior to the institution of these proceedings. The appellants had also served requests on them under the DPA and they were formerly defendants to these proceedings. The proceedings against them have, however, been discontinued because the appellants were satisfied that they had made proper searches for data.
+
+It is an important part of the background that under The Bahamian Trustee Act 1998 ("BTA"), section 83 (8) and (10) no trustee can be compelled to disclose a variety of trust documents and the Bahamian court would similarly not be able to order any such disclosure.
+
+It is common ground that certain issues are outside this appeal, and that if this appeal succeeds they will have to be remitted to the High Court. Those issues include the questions whether TW holds data on a filing system of the kind to which the DPA gives access, and whether any particular document(s) carry legal professional privilege under English law. At that stage, if there was a dispute as to whether any document(s) carried legal professional privilege, the court would have power under section 15 DPA to examine the material.
+
+Issues for determination
+
+The appeal raises the following issues, which are of general importance:
+
+Issue 1: Extent of the Legal Professional Privilege Exception: whether the Legal Professional Privilege Exception is limited to documents to which any privilege which attached was legal professional privilege under English law, so that those documents were exempt from disclosure in legal proceedings in England as against the appellants ("the narrow view") or whether (as the judge held) that Exception also includes any documents which the trustee could refuse to disclose to the beneficiaries under Bahamian trust law ("the wide view").
+
+Issue 2: Disproportionate effort: whether, if the narrow view is correct, any further search would involve "disproportionate effort" for the purposes of section 8(2) so that (as the judge held) it is excused from doing so.
+
+Issue 3: section 7(9) discretion: whether (as the judge held) the judge would have been entitled to refuse to exercise the section 7(9) discretion in favour of the appellants because their real motive was to use the information in legal proceedings against the trustee.
+
+Because of the importance of the issues, Lewison LJ gave permission for the Information Commissioner ("the IC") to intervene and for oral and written submissions from her counsel, who is Anya Proops QC. I am most grateful to the IC and Ms Proops for their assistance.
+
+The judge's conclusions on these three issues
+
+On Issue 1: Extent of the Legal Professional Privilege Exception, the judge held that the Legal Professional Privilege Exception should be interpreted purposively so as to include all the documents in respect of which the trustee would be entitled to resist compulsory disclosure in the Bahamian proceedings. He gave four reasons:
+
+i) It was clear from Durant v Financial Services Authority [2004] FSR 573 and the judgment of Lord Phillips in Campbell v MGN [2003] QB 633 at [96], that it was not appropriate to look for precision in the language because the drafter had transposed the Directive by adopting its wording and that a purposive approach should be adopted. ii) The Legal Professional Privilege Exception had to be interpreted to give effect to the appellants' right to privacy and the accuracy of the information held by TW (a point which the appellants do not contest on this appeal). The judge emphasised that it was no part of the purpose of the DPA to provide them with information or disclosure of documents which might assist them in litigation against the trustee in any forum. iii) The principles of disclosure for trustees and beneficiaries could not be separated from legal professional privilege. Privilege was a right to resist compulsory disclosure (see per Lord Millett in B v Auckland District Law Society [2003] 2 AC 736, [67]). The cases cited on joint privilege had arisen in the context of applications for disclosure of documents. iv) Realistically, proceedings against the trustee could only take place in The Bahamas. On Issue 2: Disproportionate effort, the judge held that it was not reasonable or proportionate to expect TW to carry out any search or to expect TW to be able to determine which documents were privileged. The claim to privilege was a matter for the trustee and a matter of Bahamian law, which might have to be resolved in the Bahamian proceedings. It would be a time-consuming and costly exercise.
+
+On Issue 3: section 7(9) discretion, the judge held that he would not have exercised his section 7(9) discretion because:
+
+i) It was not a proper use of the DPA to assist the appellants in the Bahamian proceedings (see per Auld LJ in Durant at [27], set out in paragraph 87 below). ii) It was not a proper use of the DPA to enable the appellants to obtain documents which they could not obtain by disclosure in the Bahamian proceedings.
+
+Summary of my conclusions
+
+For the detailed reasons given below, my conclusions on the three Issues are in summary as follows:
+
+Issue 1: The Legal Professional Privilege Exception applies only to documents which carry legal professional privilege for the purposes of English law. This does not include documents by virtue only of the fact that a trustee may refuse to disclose to a beneficiary.
+
+Issue 2: TW has not shown that to comply with the request would involve "disproportionate effort" as all it has done so far is to review its files.
+
+Issue 3: The judge was wrong to decline to enforce the Request because the appellants intended to use the information obtained pursuant to it in their Bahamian proceedings.
+
+DETAILED ANALYSIS OF ISSUE 1: IS THE NARROW OR WIDE VIEW OF THE LEGAL PROFESSIONAL PRIVILEGE EXCEPTION CORRECT?
+
+appellants' submissions  only documents privileged as against the appellants in English litigation are within the Legal Professional Privilege Exception (narrow view)
+
+Mr Swift, for the appellants, submits that, in enacting the Legal Professional Privilege Exception, the UK exercised its option under Article 13(1)(g) of the Directive (see Appendix). The right to legal professional privilege is recognised as a fundamental right by EU law. The exception as implemented in the DPA was not therefore to be interpreted in accordance with EU law. Moreover, the Directive deals with the regulation of data controllers on a territory by territory basis, and so it was not concerned with activities in other jurisdictions. He accepts that, as solicitors, TW can claim legal professional privilege on the trustee's behalf.
+
+Mr Swift submits that under the Legal Professional Privilege Exception the only privilege that can be raised as against Mrs Dawson-Damer is litigation privilege because she is a beneficiary. There is, he submits, joint privilege as between trustee and beneficiary on advice taken for the benefit of the trust: Talbot v Marshfield (1865) 2 Dr & Sm 549.
+
+The judge held that the principles in Re Londonderry's Settlement [1965] Ch 918 came within the Legal Professional Privilege Exception because those principles were a form of relief from compulsory disclosure, and that therefore information within those principles fell to be exempted from disclosure in the same way that documents subject to legal professional privilege were so exempt. Mr Swift submits that the judge was wrong so to hold. The only exemption was for legal professional privilege. There was no exception for any other document that might be subject to compulsory disclosure.
+
+Although the judge did not decide this point, section 83(8) BTA is not about legal professional privilege. This was the evidence of the appellants' expert, Sir Michael Barnett. TW's expert, Mr Wilson, on Mr Swift's submission, did not deal with this point and so did not suggest to the contrary. If it is about legal professional privilege, it is not legal professional privilege as understood in English law.
+
+Mr Swift submits that the question whether any privilege was within the Legal Professional Privilege Exception was a matter of English law. There is no principle of statutory construction that English law statutes are to be read subject to foreign statutes.
+
+TW's SUBMISSIONS - legal professional privilege exception should be widely construed to include documents not disclosable by trustee to beneficiary
+
+Mr Simon Taube QC submits that the Directive is to be interpreted purposively. The purpose of the Directive remedies is to enable a data subject to verify if accurate information is held (see recital (41) to the Directive, which is set out in the Appendix). The Court of Justice of the European Union ("CJEU") confirmed this purpose in YS v Minister voor Immigratie, Integratie en Asiel [2015] 1 CMLR 18:
+
+44. As regards those rights of the data subject, referred to in Directive 95/46, it must be noted that the protection of the fundamental right to respect for private life means, inter alia, that that person may be certain that the personal data concerning him are correct and that they are processed in a lawful manner. As is apparent from recital 41 in the preamble to that Directive, it is in order to carry out the necessary checks that the data subject has, under art. 12(a) of the Directive, a right of access to the data relating to him which are being processed. That right of access is necessary, inter alia, to enable the data subject to obtain, depending on the circumstances, the rectification, erasure or blocking of his data by the controller and consequently to exercise the right set out in art. 12(b) of that Directive 
+
+The object of the Request has therefore to be considered. In this connection, Mr Taube makes a new point about the relevance of the DPA to a SAR filed by a third party on a solicitor to some other person.  He submits that the Legal Professional Privilege Exception has to be interpreted in the context in which it is to be applied. Specifically here, TW has to have a record of its instructions, and for this purpose it is not a question of the accuracy of the facts on which those instructions are based.  He submits that there is little purpose in a data subject asking for the correction of data in a solicitor's records in these circumstances.    Indeed he doubted if the remedies which a court could order would be practicable as against a solicitor.
+
+Mr Taube submits that the Legal Professional Privilege Exception shows that Parliament did not intend that the data subject would be able to use a solicitor as a means to reach the client. (This point may, on his submission, also apply to other professionals.) A data controller who is a solicitor must rely on the Legal Professional Privilege Exception if his client has legal professional privilege in the documents which would otherwise be accessed.
+
+Mr Taube submits that, when applying the Legal Professional Privilege Exception, the court has to assume that the proceedings are brought against the data controller/solicitor and without knowing what the proceedings involve. If the material is subject to legal professional privilege or is privileged on the basis of the trust relationship, there is a good answer to the claim for production of the document. The trustee retains the privilege and the data controller is bound to assert it. That is the end of the matter and it has to be tested at the date of the SAR or at the date of the court dealing with it. In circumstances such as these, therefore, if the solicitor is bound to assert the privilege of his client and the trustee is not a party, the court could not compel disclosure, and should not take away the trustee's right of confidentiality.
+
+We need not be concerned with Mr Taube's detailed and erudite submissions on the precise extent of the right of confidentiality (as he terms it) because it is no part of this appeal that this Court should determine the extent of that right. Suffice to say, Mr Taube submits that the right is wider than the appellants assert.
+
+Mr Taube also develops the submission to show that the content of the right is different under the governing law of the trusts. He submits that the documents that Mrs Dawson-Damer seeks fall within section 83(8)(c) BTA, and that the Legal Professional Privilege Exception applies to them. The Exception should cover advice which is subject to legal professional privilege under the governing law of the trust. The substantive effect of section 83(8) BTA is the same as legal professional privilege even if it is not strictly legal professional privilege.
+
+Intervener's Submissions
+
+Ms Proops advances a list of seven propositions overall for the purposes of this appeal, which I will set out here. I have added the Issue to which each proposition primarily relates:
+
+i) The right to enforce compliance with a SAR is a fundamental right (Issue 1). ii) An exemption must be construed strictly (Issue 1). iii) The right has to be effectively vindicated (Issues 2 and 3). iv) The burden of proof is on the data controller to show that he does not need to comply with a SAR (Issue 2). v) There must be an effective remedy for breach (Issues 2and 3). vi) The legislative scheme must achieve proportionality (Issue 2). vii) Section 7 (9) cannot create a new exemption (Issue 3). Ms Proops submits that the DPA is a "gateway" to the Charter guarantee of the right to data protection: see Article 8 of the EU Charter of Fundamental Rights. A right may require vindication where any of the data protection principles is infringed, for example, if data is inaccurate.
+
+The principle that exemptions must be interpreted strictly was confirmed by the CJEU in Case C-473/12 Englebert at [39].
+
+The IC does not on reflection take a different view from that of the appellants that the Legal Professional Privilege Exception extends only to legal professional privilege for the purposes of the law of England and Wales.
+
+my analysis  the narrow view is correct
+
+Meaning of paragraph 7 of Schedule 10 to the DPA
+
+The preliminary issue here is the true interpretation of the words "legal proceedings" in paragraph 10 of Schedule 7 to the DPA (set out in the Appendix to this judgment). In my judgment, these words refer to legal proceedings in any part of the UK.
+
+Parliament has not expressly limited the words "legal proceedings" to proceedings in the UK. But in general it is presumed that Parliament does not intend to legislate for events which occur outside the territory of the relevant parts of the United Kingdom.
+
+That presumption is reinforced by the fact that, in creating the Legal Professional Privilege Exception, Parliament was exercising the member state option in Article 13(1)(g) of the Directive. It could, therefore, legislate only for measures to safeguard "the rights and freedoms of others". Privilege is a fundamental human right (see R(o/a Morgan Grenfell Ltd v Special Commissioners of Income Tax [2003] 1 AC 563).
+
+In the context of a member state option, those rights must be the rights recognised by the relevant member state under its own law. So, when paragraph 10 refers to legal professional privilege which may be recognised in legal proceedings, it means proceedings in any part of the UK. That is the only form of privilege which the domestic rules of the law of any part of the UK recognise.
+
+This interpretation is further supported by Mr Swift's point that the Directive introduces a requirement for regulation on a territory by territory basis (see, for example, recitals (18) and (19)). It does not introduce a centralised agency to regulate data protection across the EU but leaves it to the member state in which the data controller is based to regulate its activities. The Directive did not, therefore, require a single system of regulation applying in the same way across all the member states.
+
+Moreover, if Parliament had intended to refer to proceedings in any part of the world, it would surely have introduced some provisions to identify which parts of the world would be relevant for the purpose of any particular information, and also some provisions to restrict abuse where the data controller sought to rely on a system with an unusually wide form of privilege.
+
+Therefore, the Legal Professional Privilege Exception relieves the data controller from complying with a SAR only if there is relevant privilege according to the law of any part of the UK.
+
+Purposive interpretation to include the trustee's right of non-disclosure?
+
+The next question is whether the Legal Professional Privilege Exception extends to documents which are not subject to legal professional privilege as conventionally understood (that is to say, the privilege of withholding evidence about legal advice) but which are subject to a right of non-disclosure, here the trustee's right of non-disclosure which, as it happens, is recognised both in England and in The Bahamas.
+
+Mr Taube relies on the principles applying to the disclosure by trustees under the law of trusts. Documents generated in connection with the exercise by trustees of their discretion to make distributions are highly sensitive and likely to antagonise one or other class of beneficiaries. The law recognises this by not in general requiring a trustee to disclose such documents unless he is required to do so under procedural rules applying in litigation. The juridical basis for non-disclosure has been clarified by Lord Walker, giving the judgment of the Privy Council in Schmidt v Rosewood Trust Ltd [2003] 2 AC 709, [66], a Manx case. He described the jurisdiction to withhold disclosure as an "aspect of the court's inherent jurisdiction to supervise (and where appropriate intervene in) the administration of trusts."
+
+Both the judge and Mr Taube in his submissions to us cite the observation of Lord Millett in B v Auckland District Law Society at [67], that "privilege is a right to resist the compulsory disclosure of information", but, as Mr Swift points out, this statement was not concerned with legal professional privilege but privilege from disclosure generally. The privilege in the Legal Professional Privilege Exception is expressly limited to legal professional privilege.
+
+The analysis of Lord Walker in Schmidt avoids some of the difficulties that emerge from Re Londonderry's Settlement in defining the classes of documents that should be disclosed to beneficiaries if all such documents are trust property. Harman LJ for instance declined to hold that certain documents, such as documents reflecting the trustee's reasons or an inquiry made about a beneficiary, were trust property, so that a beneficiary would have a proprietary interest in them (page 933F). Danckwerts LJ considered that it would have been easier to identify the appropriate documents once there was litigation and considered that non-disclosure was justified on practical grounds to avoid strife between beneficiaries and as between them and trustees (pages 935 to 936). Salmon LJ saw the conflict between a rule that documents might be trust property and the need to keep some matters confidential to the trustees. Trustees were not bound to give reasons and that rule could not be different simply because they wrote their reasons down. He doubted whether documents were trust documents if they contained matters which beneficiaries were not entitled to see (page 938F). In the end this Court made an order in a negative form declaring that no disclosure was required of large categories of documents other than legal advice about the manner which trustees are in law entitled to exercise their discretionary powers of distribution.
+
+It is possible that in this case the trustee has copies of letters of wishes. In Breakspear v Ackland [2009] Ch 32, Briggs J (as he then was), after careful consideration of the authorities, including Re Londonderry's Settlement held that in principle non-disclosure applied also to a settlor's letter of wishes. He considered that a trustee could make an application ("a Beddoe application") to the court seeking the court's directions as to whether to make disclosure to a beneficiary, and in that event the court would give directions about withholding documents from any beneficiary joined as a party (page 55A).
+
+The trust is governed by the law of The Bahamas. Mrs Dawson-Damer could be prevented from seeing documents generated in connection with the exercise by trustees of their discretion by the even stricter provisions in section 83 BTA (see the Appendix to this judgment). Moreover, the appellants could not obtain an order for disclosure in The Bahamas because of section 83. This provision is an enhancement of the trustee's discretion to refuse disclosure. The trustee's rights are extensive and are supported by a provision removing from the court any inherent discretion to order disclosure. It thus seems clear, although the judge made no finding on this, that section 83 is not about legal professional privilege (as conventionally understood) but the right of the trustee to refuse disclosure of documents or other information.
+
+So in this jurisdiction it is clear that a trustee cannot be obliged, save by an order of the court, to disclose documents (see, generally, Lewin on Trusts (19th ed 2015) at page 909). Mr Taube submits that it cannot have been the intention of Parliament that that position should be circumvented by a SAR, and accordingly there should be a purposive interpretation of "legal professional privilege" in the Legal Professional Privilege Exception so that it includes documents within the trustee's right of non-disclosure. Mr Taube submits that a purposive interpretation would be in keeping with the approach to EU-derived legislation generally, and with the UK's manifest wish to protect legal professional privilege.
+
+But a relevant purpose or aim of the Directive has to be identified. Mr Taube focuses on the purposes of disclosure in the Directive which are to enable a person to correct errors in personal data. Mr Taube submits that that purpose is not furthered by requiring a firm of solicitors to disgorge material because they keep records only to record their clients' instructions which may not be accurate. I have great difficulty in seeing why this matters since a data subject is likely to be legitimately concerned if legal advice has been given on the basis of mistaken fact. Mr Taube cannot point to any other aim or objective in the Directive which might support the purposive interpretation he seeks. So in my judgment he fails to establish such an interpretation.
+
+Accordingly, in my judgment, the DPA does not contain an exception for documents not disclosable to a beneficiary of a trust under trust law principles. The fact is that they are not within the Legal Professional Privilege Exception, and no other exception has been suggested.
+
+Fact that TW are the trustee's solicitors of little relevance
+
+There is no conceptual difficulty under the DPA arising from the fact that TW is an agent. The critical point is that TW is a data controller. As a firm of solicitors, TW can and must claim privilege to which the client is entitled. The trustee has not waived its privilege, and TW cannot (unless instructed to waive privilege) properly do so for them when acting on the Request. It could do so in legal proceedings brought against them.
+
+It follows that TW is in no special position so far as the Legal Professional Privilege Exception is concerned because it is an agent for the trustee, even though the trustee is not before the court and a similar order could not be obtained in The Bahamas.
+
+DETAILED ANALYSIS OF ISSUE 2: WOULD COMPLIANCE WITH THE REQUEST INVOLVE DISPROPORTIONATE EFFORT?
+
+Appellants' submissions  clear that personal data must exist and no evidence that adequate steps to locate it have been taken
+
+Mr Swift submits that the Subject Access Code of Practice ("the Code of Practice") issued pursuant to section 51 DPA by the Information Commissioner's Office in February 2014 shows that compliance with a SAR may involve significant effort:
+
+The code is the Information Commissioner's interpretation of what the DPA requires of organisations to comply with SARs. It gives advice on good practice, but compliance with our recommendations is not mandatory where they go beyond the strict requirements of the DPA. The code itself does not have the force of law, as it is the DPA that places legally enforceable obligations on organisations. (pages 4-5) Electronic records In most cases, information stored in electronic form can easily be found and retrieved. However, as it is very difficult to truly erase all electronic records, it is arguable that a requester might be entitled to request access to personal data that you do not have ready access to  because you still hold the data and, with time and varying degrees of technical expertise, you could retrieve it. You are likely to have removed information from your 'live' systems in a number of different ways. The information may have been:  'archived' to storage;  copied to back-up files; or  'deleted'." (page 25) Information contained in emails The contents of emails stored on your computer systems are, of course, a form of electronic record to which the general principles above apply. For the avoidance of doubt, the contents of an email should not be regarded as deleted merely because it has been moved to a user's 'Deleted items' folder. It may be particularly difficult to find information to which a SAR relates if it is contained in emails that have been archived and removed from your 'live' systems. Nevertheless, the right of subject access is not limited to the personal data to which it would be easy for you to provide access. Subject to certain exemptions, you must provide subject access to all personal data you hold, even if it is difficult to find. You may, of course, ask the requester to give you some context that would help you find what they want. Usually, once you have found the relevant emails, the cost of supplying a copy of the personal data within them is unlikely to be prohibitive. You cannot refuse to comply with a SAR on the basis that it would involve disproportionate effort, simply because it would be costly and time consuming to find the requested personal data held in archived emails. (page 25) Mr Swift submits that the judge failed to address the circumstances of the case. There was a blanket assertion of legal professional privilege by TW when there was clearly the possibility of material that would not be subject to legal professional privilege (on this see the excerpts from the witness statement of Ms Ziva Robertson set out in paragraph 14 above). Moreover, there were obvious steps which TW could have taken which there is no evidence that TW took. The family's advisers were able to perform an exercise and produce material so that they complied with the SAR served on them. By contrast, Ms McGuigan's evidence, on behalf of TW in this matter, did not spell out what searches had been undertaken and says nothing about what TW did in response to the Request. Nor did she say that it would be impossible or excessively difficult to carry out further searches.
+
+Mr Swift contends that TW must provide some detail as to the nature of the types or categories of documents which it has and which contain personal data. TW had left it unclear as to whether all the material that it had was subject to legal professional privilege or that it could not tell which was entitled to legal professional privilege and which was not. It was obvious that there was a potentially wide range of documents in issue, including correspondence from potential beneficiaries, the family advisers and other professional advisers and financial information. It was quite possible that there was material which was outside the legal professional privilege.
+
+Mr Swift relies on Ezsias v Welsh Ministers, per Judge Hickinbottom, sitting as a Judge of the High Court, at paragraphs 92 to 97. In Guriev v Community Safety Development (UK) Ltd [2016] EWHC 643 (QB) at [55] and [57], Warby J refused to exercise his discretion in favour of a data controller who had not even begun to comply with a SAR.
+
+Mr Swift submits that what is reasonable and proportionate must be proportionate in relation to the SAR and, contrary to Mr Taube's submission, that cost in comparison with the size of the fee or in absolute terms is irrelevant.
+
+TW's Submissions  review of files enough
+
+Mr Taube submits that section 8(2)(a) limits the entitlement of the data subject and the obligation of the data controller where supplying the information would involve disproportionate effort. He submits that the word "supply" includes the word "search".
+
+Mr Taube submits that the question of proportionality in the circumstances was a matter for the judge, and ought not to be overturned and that the judge was justified in reaching his conclusion. TW had already conducted a review of the files, in order to answer the appellants' letter of 18 February 2014. It could, from that review, have formed a reasonable judgment that a substantial part of the papers were likely subject to legal professional privilege, and that it would be expensive to separate them. Having reviewed TW's letter dated 9 July 2014, in which it explains it conducted this review of the files, the judge had ample evidence on which to conclude it would be disproportionate to carry out a further search.
+
+Mr Taube accepts that, when TW carried out its review, TW would not have been focussing on the issue which of the documents in its files were within the scope of the Legal Professional Privilege Exception. Nevertheless, he submits TW would have been able to form a reasonable judgment that a substantial part of them were within that Exception and that it would be a time-consuming and expensive task to separate those documents out.
+
+Mr Taube submits that, to the extent the IC argues that section 8(2) only places limits on the data controller's efforts to copy the data, such an interpretation of the statute would be unintelligible, as the expense in locating the data may be higher than the expense in copying.
+
+IC's contention that there was "virtually no evidence" of a search by TW took no account of TW's review of its files.
+
+Mr Taube submits that in any event it made more sense for the question of disclosure to be dealt with in the Bahamian proceedings.
+
+Intervener's Submissions - review of files not enough
+
+Ms Proops relies on the third to sixth of her seven propositions (set out in paragraph 35 above): i.e. that the right of a data subject must be effectively vindicated, the burden of proof is on the data controller to show that he does not need to do more to comply with a SAR, that there must be an effective remedy for breach and that the legislative scheme must achieve proportionality.
+
+The Code of Practice sets out (at page 23) the IC's position on the extent of the duty to provide subject access:
+
+The DPA does not permit you to exclude information from your response to a SAR merely because it is difficult to access. The Act deals with the situation where supplying information in permanent form to the requester is impossible or would involve disproportionate effort (see chapter 8). But it does not place any express limits on your duty to search for and retrieve the information they want. You should be prepared to make extensive efforts to find and retrieve the requested information. Even so, you are not required to do things that would be unreasonable or disproportionate to the importance of providing subject access to the information. Any decision on these matters should reflect the fact that the right of subject access is fundamental to data protection. It will always be reasonable and proportionate to search your records in the manner recommended in this chapter, and to review the information found with a view to disclosing it; and it will never be reasonable to deny access to the requested information merely because responding to the request may be labour-intensive or inconvenient. So the fact that the process of finding personal data would be costly or time-consuming is not, in the submission of the IC, a reason for not complying with a SAR.
+
+The judge ought to have concluded TW had breached its obligations under section 7. Not to do so was a material error of law. TW could not properly say at the outset that it would do nothing. The DPA was intended to put power into the hands of the data subject and compliance with the SAR might involve considerable work.
+
+The IC accepts that that there is an element of proportionality involved in assessing a data controller's task, and in some instances, where a data controller complies with its obligations in substance, it may be disproportionate to require a controller to conduct further searches "for some remote strand of data which may not even be held". If section 8(2) governs only the form in which personal data are provided, this flows from the general proportionality principle in EU law. So it is not open to a data controller to avoid substantive compliance by arguing that work would be expensive or time-consuming. The cost of compliance is the price data controllers pay for processing data. In the same way, the economic interests of search engines are trumped by the protection of data rights: see Case C-131/12 Google Spain SL v Agencia Espanola de Proteccion de Datos.
+
+The correct approach is to examine what steps a data controller has taken, and then to ask if it would be disproportionate to require further steps to be taken to comply with the individual's right of access. The burden of proof is on the data controller to show that it has taken all reasonable steps to comply with a SAR request, and that it can rely on any specific exemptions to refuse to provide data.
+
+my analysis  disproportionate effort must involve more than an assertion that it is too difficult to search through voluminous papers
+
+This Issue turns on the true interpretation of section 8(2) DPA (see Appendix). This qualifies the data controller's obligation under section 7(1)(c)(i), which is to supply copies of information constituting personal information in permanent form, by the words "unless the supply of such a copy is not possible or would involve disproportionate effort."
+
+It therefore falls to the data controller to show that the supply of a copy of the information in permanent form would involve disproportionate effort.
+
+The passage which Mr Swift cites from the Code of Practice suggests that the IC reads section 8(2) as applying only to the process of supply. I do not consider that the difficulties that can be taken into account in determining whether the supply of information in permanent form would be disproportionate for a data controller are limited to those which arise in the process of producing a copy of a document, but include difficulties which occur in the process of complying with the request which might result in the supply of the document involving disproportionate effort. This is consistent with EU law, which would apply proportionality to all stages of the process of compliance. Moreover, I agree with Mr Taube's submission that it would be odd if this was not so.
+
+In my judgment, the word "supply" is used so that what is weighed up in the proportionality exercise is the end object of the search, namely the potential benefit that the supply of the information might bring to the data subject, as against the means by which that information is obtained. It will be a question for evaluation in each particular case whether disproportionate effort will be involved in finding and supplying the information as against the benefits it might bring to the data subject.
+
+It appears that section 8(2) was applied on that basis in Ezsias. In Ezsias, a former employee of North Glamorgan NHS Trust served a SAR on Ministers of the Welsh National Assembly. The Welsh National Assembly emailed relevant officials of the Department of Health and Social Security, Information Management Division and Complaints Unit asking for all the documents which they might have which might incorporate disclosable personal data (including that held on computers, such as emails). The official involved, Ms Lancey, then collated the documents received in response to her request. That produced approximately 1,000 pages of documents which had been disclosed in whole or part and some 1,400 pages of documents which have not been disclosed. Nothing daunted, Mr Ezsias submitted that Ms Lancey ought to have covered more government departments. He had a letter from the Data Protection Officer of the Welsh Assembly stating that it was likely that further documents might be found if some different lines of inquiry within the Welsh government had been made. Judge Hickinbottom held that the searches had been reasonable and proportionate, and that in all the circumstances it would not be reasonable for the National Assembly to conduct any further search.
+
+Ezsias usefully shows that proportionality means that in appropriate circumstances there will be bounds to a search: the very words of section 8(2) assert that possibility. However, it is clear from the recitals to the Directive that there are substantial public policy reasons for giving people control over data maintained about them through the system of rights and remedies contained in the Directive, which must mean that where and so far as possible, SARs should be enforced. Moreover, most data controllers can be expected to know of their obligations to comply with SARs and to have designed their systems accordingly to enable them to make most searches for SAR purposes.
+
+On the application of section 8(2) to the facts of this case, Mr Taube repeated to us the points that he had made to the judge, which the judge recorded as follows:
+
+66 Mr Taube submitted that it was not reasonable or proportionate to expect TW to carry out any search. It was not reasonable or proportionate to expect TW to be able to determine which documents were protected by privilege and which were not. The privilege belonged to Grampian and the correct person to assert that privilege was Grampian. The question of whether there was such privilege depended on Bahamian law on which different opinions had been expressed. Furthermore until the allegations had been pleaded in the Bahamian proceedings it was impossible to know if allegations of misconduct were being made against Grampian. The question of whether a document was protected by privilege was a matter that required consideration by skilled lawyers. It would accordingly be a very time consuming (and costly) exercise for such lawyers to carry out that task. The claimants had only paid a modest fee (£10 each) for the subject access requests. To expect TW to carry out the work required was neither reasonable nor proportionate. He also made the point that in all likelihood the question of disclosure will have to be considered and resolved by Grampian and its Bahamian lawyers in the Bahamian proceedings. TW's files would form part of that exercise. The judge accepted Mr Taube's submission and held that it was not reasonable or proportionate on the facts of this case for TW to carry out the necessary search to determine if any particular document was covered by privilege. The facts as he found them to be were as follows:
+
+65 In this case there is virtually no evidence of the search carried out by TW. There is an assertion in the letter of 11 September 2014 that searches have been carried out but there is no other evidence. The point is not addressed at all in Ms McGuigan's evidence. Furthermore, as Mr Swift pointed out, even though much of the personal data may be covered by privilege there is likely to be some not so covered. It is in that context that he invites the court to exercise its powers under section 15 of the 1998 Act. In my judgment, the judge's decision on this point was influenced by his erroneous conclusion that the wider view was correct in law. So his conclusion cannot stand. No doubt TW were also influenced by the view that Legal Professional Privilege Exception was available, and did not comply with the Request. In my judgment, when the narrow view is taken and the judge's findings are examined, it is plain in this case almost beyond argument that further compliance with the Request would not involve disproportionate effort by TW.
+
+In those circumstances, I have no doubt that TW have not made good its claim that it would involve disproportionate effort to take any further steps to identify personal data. The court is not yet at a stage when it could say that any particular steps would be disproportionate.
+
+TW must produce evidence to show what it has done to identify the material and to work out a plan of action.  It has singularly failed to do this and so has not discharged the onus on it. 
+
+Mr Taube suggests that it would be better to leave the question of the production of information to be decided in the Bahamian proceedings. In my judgment, that is not a good answer to the Request. There is no exception in the DPA to cover that situation. So the existence of those proceedings cannot be taken into account for the purpose of answering Issue 2.
+
+DETAILED ANALYSIS OF ISSUE 3: ARE THE APPELLANTS UNABLE TO ENFORCE THE REQUEST BECAUSE OF THEIR COLLATERAL INTENTION TO USE THE INFORMATION TO ASSIST IN THEIR LITIGATION AGAINST THE TRUSTEE?
+
+Appellants' submissions  no collateral purpose relevant or present
+
+Mr Swift submits that the judge was wrong on the question of how the section 7(9) discretion should be applied. There is no rule that (as the judge held) no order should be made if the data subject proposed to use the information obtained for verifying or correcting data but also to assist him in other proceedings ("the no other purpose rule").
+
+Durant not authority for a "no other purpose rule"
+
+The judge placed reliance on paragraph 27 of the judgment of Auld LJ, with whom Mummery and Buxton LJJ agreed in Durant. In that case, Auld LJ held:
+
+27. In conformity with the 1981 Convention and the Directive, the purpose of s 7, in entitling an individual to have access to information in the form of his 'personal data' is to enable him to check whether the data controller's processing of it unlawfully infringes his privacy and, if so, to take such steps as the Act provides, for example in ss 10 to 14, to protect it. It is not an automatic key to any information, readily accessible or not, of matters in which he may be named or involved. Nor is [it] to assist him, for example, to obtain discovery of documents that may assist him in litigation or complaints against third parties. As a matter of practicality and given the focus of the Act on ready accessibility of the informationwhether from a computerised or comparably sophisticated non-computerised systemit is likely in most cases that only information that names or directly refers to him will qualify. In this respect, a narrow interpretation of 'personal data' goes hand in hand with a narrow meaning of 'a relevant filing system', and for the same reasons (see [46][51] below). But ready accessibility, though important, is not the starting point." Mr Swift submits that Durant does not establish the principle that a data subject should not exercise DPA rights for purposes outside the DPA. What was said here was in response to an argument about a wide form of personal data.
+
+In Kololo v Metropolitan Police Commissioner [2015] 1 WLR 3702, the data subject wanted to use the data in his appeal against a murder conviction. Dingemans J (at 36) held that that did not justify non-compliance with the SAR. Likewise, in Lin v Commissioner of Police for the Metropolis [2015] EWHC 2484 QB, Green J held that it was not an improper purpose to serve a request to obtain information for use in criminal proceedings in Thailand. This Court in Dunn v Durham County Council [2003] 1 WLR 2305 (see [16], [26] and [51]) expressed the view that a litigant could use a SAR as well as disclosure of documents for the purposes of the proceedings.
+
+Appellants' collateral purpose does not bar relief
+
+The judge further held that it was not a proper use of section 7(9) to use documents for the purposes of the Bahamian proceedings. Again disclosure in litigation and disclosure under the DPA are not comparable. So in R (o/a Lord) v Secretary of State for the Home Department [2003] EWHC 1073 Admin, a prisoner made a SAR about his classification as a Category A prisoner. At [160], Munby J held that the discretion was general and untrammelled.
+
+A "no other purpose" rule would lead to satellite litigation
+
+Confining the scope of subject access rights by reference to purpose is an unprincipled restriction of the section 7 right and will result in complex litigation in an attempt to determine the "true" purpose of any application. There is no reason why having a collateral purpose should disqualify a data subject from relief.
+
+Appellants' collateral purpose is proper
+
+On the facts, the appellants seek access to their data to establish whether decisions that have directly affected them have been taken on the basis of accurate information. That is not an improper purpose.
+
+Court can deal with abuse of process if shown
+
+If there is an abuse in seeking a remedy for an ulterior purpose, and but for that purpose he would not have commenced the proceedings, the court can identify it and deal with it: see Goldsmith v Sperring [1977] 1 WLR 478 at 503 F-H per Bridge LJ.
+
+Directive does not indicate that there is a no other purpose rule
+
+Mr Swift further submits that there is nothing in the Directive to justify a "no other purpose" rule. It would be odd to have such a rule at the end of the process. Mr Swift also relies on recital (41) to the Directive (set out in the Appendix).
+
+Bahamian trust law and Bahamian proceedings irrelevant
+
+Mr Swift submits that none of the other points raised by the judge or by Mr Taube prevent the exercise of discretion. It was not an objection that information under the DPA might go further than disclosure under Bahamian law. Bahamian law on his submission is irrelevant.
+
+Conclusion
+
+The court should not withhold relief under section 7(9) unless there are overriding reasons to do so (Guriev at [61]). There are none here.
+
+TW's Submissions -this court should not interfere with judge
+
+Mr Taube submits that this Court should not interfere with the untrammelled discretion conferred on the judge, who had sound reasons for coming to his conclusion and the judge was right for the reasons he gave.
+
+Mr Taube again relies on the purpose of the Directive, which he submits must be considered in determining how the court should exercise the section 7(9) discretion. He relies on Durant, [27].
+
+In Lindquist at [72] to [90], the CJEU held that national courts must ensure a fair balance and that the Directive does not violate any fundamental rights. The data controller has a fundamental right to the protection of his property, to carry on business and in the context of a solicitor to perform the obligations which he owes to his client.
+
+Intervener's Submissions
+
+Ms Proops' third, fifth and seventh propositions (paragraph 35 above) are relevant here. The seventh is particularly relevant because to allow the data controller to rely on the motive of the data subject as a reason for not complying with a SAR would amount to creating a new ground for rejecting a SAR not conferred by the Directive (Lin & Anor v Commissioner of Police of the Metropolis [2015] EWHC 2484 at [98]): and see per Cranston J in Roberts v Nottinghamshire Health NHS Trust [2008] EHWC 1934 QB:
+
+14 the court has no independent discretion to sanction non-disclosure of data by a data controller. If a data controller is to deny a request for access to data it must point to the 1998 Act, most likely an exemption, and then satisfy the various legal requirements just canvassed. Any other approach, recognising in the court a power to deny access to data despite the prerequisites of the 1998 Act being satisfied, would drive a coach and horse through the legislation as well as undermining this country's international obligations. As the IC's Code of Practice states (page 47), "there is nothing in the Act that limits the purposes for which a SAR may be made, or which requires the requester to tell you what they want the information for."
+
+In YS, the CJEU did not adversely comment on the fact that the data subject wanted information to assist him in immigration proceedings. This is in contrast to Durant, which the judge misunderstood as applying to the section 7(9) discretion when it was a comment applying to "personal data".
+
+The approach of the court to the exercise of discretion should be to vindicate the rights of the data subject. The rights of the data controller were not infringed. Ms Proops submits that, where a data controller has breached its duty to supply information, then unless the data has become exempt from disclosure, the court should grant relief unless (a) the breach has already been effectively remedied; or (b) the court is satisfied on good evidence that the breach is bound to be effectively remedied. Ms Proops submits that the court cannot find that the breach is bound to be remedied where (i) the disclosure process is not imminent, or (ii) there are doubts as to whether a disclosure exercise would result in the disclosure of all data in issue, or (iii) time appeared to be of the essence so far as the protection of the data subject's rights is concerned, or (iv) the controls imposed on the use of the disclosed documents under CPR 31.22 might unduly inhibit the applicant from vindicating his data protection rights.
+
+Ms Proops submits that foreign proceedings and data regimes do not provide a basis for a data controller or court to refuse to give effect to a data subject's rights under domestic and EU law. It is for the foreign court to consider questions of admissibility.
+
+My analysis  There is no "no other purpose" rule which is an automatic bar to the exercise of the section 7(9) discretion
+
+This Issue raises a question as to the true interpretation of section 7(9) DPA (see the Appendix). This subsection confers a discretion on the court to make an order against a data controller to comply with a SAR if the court is satisfied that he has failed to comply with it. The discretion is not expressly limited in any way and so it has been held to be "untrammelled." (per Munby J in Lord, with whom this Court agreed in Durant at [74]). I am grateful to Ms Proops' for her submissions on the circumstances in which the section 7(9) discretion should be exercised, but because it is a general discretion I do not think it would be right to limit it in the way she suggests.
+
+The question is whether the judge was right to say that there is a "no other purpose" rule which has the effect that no order will be made if the applicant proposes to use the information obtained for some purpose other than verifying or correcting data held about him.
+
+Recital (10) to the Directive makes it clear that the rights given by the Directive are to protect fundamental rights conferred by EU law. We have been shown nothing in the DPA or the Directive which limits the purpose for which a data subject may request his data, or provides data controllers with the option of not providing data based solely on the requester's purpose. The data controller has property rights as well, but they do not override the proper exercise by the data subject of his rights.
+
+In my judgment, the arguments of Mr Swift and Ms Proops as to why there should not be a "no other purpose" rule are compelling. It would be odd if the verification of data was always in practice a complete aim in itself which excluded all others, and as I have just explained neither the Directive nor the DPA compels that interpretation. Nor has Parliament expressly required a data subject to show that he has no other purpose. As Ms Proops argues, a "no other purpose" rule would have undesirable secondary consequences, such as non-compliance by data controllers with SARs on the grounds that the data subject had an ulterior purpose.
+
+It did not appear to this Court in Dunn v Durham or to Green J in Lin or Dingemans J in Kokolo that that was the rule. The position might be different if the application under section 7(9) was an abuse of the court's process (which the mere holding of a collateral purpose would not normally be) or if the claimant was a representative party who had some purpose which might give rise to a conflict of interest with that of the group or body he represents. But that is not this case.
+
+The only obstacle to the conclusion that there is a "no other purpose" rule is the holding by Auld LJ, with which the other members of the Court agreed, that the right to obtain information under section 7 DPA was not "to assist him, for example, to obtain discovery of documents that may assist him in litigation or complaints against third parties."([27], set out above at paragraph 87).
+
+In my judgment, Mr Swift and Ms Proops are right to say that the judge misunderstood this sentence. It is not to be taken out of context. The context was that Auld LJ was emphasising the limited nature of personal data, which was the principal issue in the Durant case. A person could not claim that something was personal data because it would assist him in obtaining discovery or in litigation or complaints against third parties. This is reinforced by Auld LJ's acceptance at paragraph 74 of his judgment that the discretion under section 7(9) was general and untrammelled. It would have been inconsistent to conclude this if his earlier statement applied to the exercise of discretion.
+
+In those circumstances, in my judgment, David Richards J (as he then was) was right when he said that this passage did not establish that a request would be invalid if made for the collateral purpose of assisting in litigation: see Southern Pacific Personal Loans Limited [2013] EWHC 2485 (Ch) at paragraph 10.
+
+Likewise, it would not in my judgment be correct to refuse to exercise the discretion because this disclosure could not be obtained from the trustees under the governing law of the trusts.  On this appeal, this Court must apply the section 7(9) discretion with a view to fulfilling the purposes of the DPA, which confers rights on a data subject. This Court is not exercising any jurisdiction in relation to the administration of the trust, which is a matter for the Bahamian courts.  The exercise of the section 7(9) discretion does not, therefore, in my judgment have to make allowance for the trustee's right to refuse disclosure.
+
+In my judgment, the judge fell into error. If my Lords agree, the discretion has now to be exercised.  The most material considerations are that the validity of the Request is not in doubt and that the efforts so far to comply with the request have been inadequate. In all the circumstances, it follows that an order under section 7(9) should in my judgment now be made.
+
+CONCLUSION
+
+I would allow this appeal and remit the matter to the Chancery Division.
+
+Lord Justice Richards
+
+I agree.
+
+Lord Justice Irwin
+
+I also agree.
+
+APPENDIX
+
+RELEVANT PROVISIONS OF THE DATA PROTECTION ACT 1998, THE DIRECTIVE AND SECTION 83 OF THE BAHAMIAN TRUSTEE ACT 1988 ---- DATA PROTECTION ACT 1998
+
+Part I Preliminary
+
+1 Basic interpretative provisions.
+
+(1) In this Act, unless the context otherwise requires
+
+"data" means information which
+
+(a) is being processed by means of equipment operating automatically in response to instructions given for that purpose,
+
+(b) is recorded with the intention that it should be processed by means of such equipment,
+
+(c) is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system,
+
+(d) does not fall within paragraph (a), (b) or (c) but forms part of an accessible record as defined by section 68; or
+
+(e) is recorded information held by a public authority and does not fall within any of paragraphs (a) to (d); 
+
+"data processor", in relation to personal data, means any person (other than an employee of the data controller) who processes the data on behalf of the data controller;
+
+"data subject" means an individual who is the subject of personal data;
+
+"personal data" means data which relate to a living individual who can be identified
+
+(a) from those data, or
+
+(b) from those data and other information which is in the possession of, or is likely to come into the possession of, the data controller,
+
+and includes any expression of opinion about the individual and any indication of the intentions of the data controller or any other person in respect of the individual;
+
+Part II Rights of data subjects and others
+
+7 Right of access to personal data.
+
+(1)Subject to the following provisions of this section and to sections 8, 9 and 9A, an individual is entitled
+
+(a) to be informed by any data controller whether personal data of which that individual is the data subject are being processed by or on behalf of that data controller,
+
+(b) if that is the case, to be given by the data controller a description of (i)the personal data of which that individual is the data subject, (ii)the purposes for which they are being or are to be processed, and (iii)the recipients or classes of recipients to whom they are or may be disclosed,
+
+(c) to have communicated to him in an intelligible form (i)the information constituting any personal data of which that individual is the data subject, and (ii)any information available to the data controller as to the source of those data, and
+
+(d) where the processing by automatic means of personal data of which that individual is the data subject for the purpose of evaluating matters relating to him such as, for example, his performance at work, his creditworthiness, his reliability or his conduct, has constituted or is likely to constitute the sole basis for any decision significantly affecting him, to be informed by the data controller of the logic involved in that decision-taking.
+
+(2) A data controller is not obliged to supply any information under subsection (1) unless he has received
+
+(a) a request in writing, and (b) except in prescribed cases, such fee (not exceeding the prescribed maximum) as he may require. 
+
+(4) Where a data controller cannot comply with the request without disclosing information relating to another individual who can be identified from that information, he is not obliged to comply with the request unless
+
+(a) the other individual has consented to the disclosure of the information to the person making the request, or (b) it is reasonable in all the circumstances to comply with the request without the consent of the other individual. 
+
+(8) Subject to subsection (4), a data controller shall comply with a request under this section promptly and in any event before the end of the prescribed period beginning with the relevant day.
+
+(9) If a court is satisfied on the application of any person who has made a request under the foregoing provisions of this section that the data controller in question has failed to comply with the request in contravention of those provisions, the court may order him to comply with the request. 
+
+8 Provisions supplementary to section 7.
+
+
+
+(2) The obligation imposed by section 7(1)(c)(i) must be complied with by supplying the data subject with a copy of the information in permanent form unless
+
+(a) the supply of such a copy is not possible or would involve disproportionate effort, or
+
+(b) the data subject agrees otherwise;
+
+and where any of the information referred to in section 7(1)(c)(i) is expressed in terms which are not intelligible without explanation the copy must be accompanied by an explanation of those terms.
+
+
+
+Part II Rights of data subjects and others
+
+10. Right to prevent processing likely to cause damage or distress.
+
+(1) Subject to subsection (2), an individual is entitled at any time by notice in writing to a data controller to require the data controller at the end of such period as is reasonable in the circumstances to cease, or not to begin, processing, or processing for a specified purpose or in a specified manner, any personal data in respect of which he is the data subject, on the ground that, for specified reasons
+
+(a) the processing of those data or their processing for that purpose or in that manner is causing or is likely to cause substantial damage or substantial distress to him or to another, and (b) that damage or distress is or would be unwarranted. ...
+
+37 Miscellaneous exemptions.
+
+Schedule 7 (which confers further miscellaneous exemptions) has effect.
+
+SCHEDULE 1 - THE DATA PROTECTION PRINCIPLES Arrangement of Provisions Part I The principles
+
+Personal data shall be processed fairly and lawfully and, in particular, shall not be processed unless
+
+(a) at least one of the conditions in Schedule 2 is met, and (b) in the case of sensitive personal data, at least one of the conditions in Schedule 3 is also met.
+
+SCHEDULE 7  MISCELLANEOUS EXEMPTIONS Legal professional privilege
+
+10. Personal data are exempt from the subject information provisions if the data consist of information in respect of which a claim to legal professional privilege or, in Scotland, to confidentiality of communications, could be maintained in legal proceedings.
+
+DIRECTIVE 95/46/EC (THE DATA PROTECTION DIRECTIVE)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof,
+
+Having regard to the proposal from the Commission (1),
+
+Having regard to the opinion of the Economic and Social Committee (2),
+
+Acting in accordance with the procedure referred to in Article 189b of the Treaty (3),
+
+[]
+
+(2) Whereas data-processing systems are designed to serve man; whereas they must, whatever the nationality or residence of natural persons, respect their fundamental rights and freedoms, notably the right to privacy, and contribute to economic and social progress, trade expansion and the well-being of individuals;
+
+(3) Whereas the establishment and functioning of an internal market in which, in accordance with Article 7a of the Treaty, the free movement of goods, persons, services and capital is ensured require not only that personal data should be able to flow freely from one Member State to another, but also that the fundamental rights of individuals should be safeguarded;
+
+(4) Whereas increasingly frequent recourse is being had in the Community to the processing of personal data in the various spheres of economic and social activity; whereas the progress made in information technology is making the processing and exchange of such data considerably easier;
+
+(5) Whereas the economic and social integration resulting from the establishment and functioning of the internal market within the meaning of Article 7a of the Treaty will necessarily lead to a substantial increase in cross-border flows of personal data between all those involved in a private or public capacity in economic and social activity in the Member States; whereas the exchange of personal data between undertakings in different Member States is set to increase; whereas the national authorities in the various Member States are being called upon by virtue of Community law to collaborate and exchange personal data so as to be able to perform their duties or carry out tasks on behalf of an authority in another Member State within the context of the area without internal frontiers as constituted by the internal market;
+
+[]
+
+(10) Whereas the object of the national laws on the processing of personal data is to protect fundamental rights and freedoms, notably the right to privacy, which is recognized both in Article 8 of the European Convention for the Protection of Human Rights and Fundamental Freedoms and in the general principles of Community law; whereas, for that reason, the approximation of those laws must not result in any lessening of the protection they afford but must, on the contrary, seek to ensure a high level of protection in the Community;
+
+[]
+
+(12) Whereas the protection principles must apply to all processing of personal data by any person whose activities are governed by Community law; whereas there should be excluded the processing of data carried out by a natural person in the exercise of activities which are exclusively personal or domestic, such as correspondence and the holding of records of addresses;
+
+[]
+
+(18) Whereas, in order to ensure that individuals are not deprived of the protection to which they are entitled under this Directive, any processing of personal data in the Community must be carried out in accordance with the law of one of the Member States; whereas, in this connection, processing carried out under the responsibility of a controller who is established in a Member State should be governed by the law of that State;
+
+(19) Whereas establishment on the territory of a Member State implies the effective and real exercise of activity through stable arrangements; whereas the legal form of such an establishment, whether simply branch or a subsidiary with a legal personality, is not the determining factor in this respect; whereas, when a single controller is established on the territory of several Member States, particularly by means of subsidiaries, he must ensure, in order to avoid any circumvention of national rules, that each of the establishments fulfils the obligations imposed by the national law applicable to its activities;
+
+(20) Whereas the fact that the processing of data is carried out by a person established in a third country must not stand in the way of the protection of individuals provided for in this Directive; whereas in these cases, the processing should be governed by the law of the Member State in which the means used are located, and there should be guarantees to ensure that the rights and obligations provided for in this Directive are respected in practice;
+
+[]
+
+(25) Whereas the principles of protection must be reflected, on the one hand, in the obligations imposed on persons, public authorities, enterprises, agencies or other bodies responsible for processing, in particular regarding data quality, technical security, notification to the supervisory authority, and the circumstances under which processing can be carried out, and, on the other hand, in the right conferred on individuals, the data on whom are the subject of processing, to be informed that processing is taking place, to consult the data, to request corrections and even to object to processing in certain circumstances;
+
+[]
+
+(26) Whereas the principles of protection must apply to any information concerning an identified or identifiable person; whereas, to determine whether a person is identifiable, account should be taken of all the means likely reasonably to be used either by the controller or by any other person to identify the said person; whereas the principles of protection shall not apply to data rendered anonymous in such a way that the data subject is no longer identifiable; whereas codes of conduct within the meaning of Article 27 may be a useful instrument for providing guidance as to the ways in which data may be rendered anonymous and retained in a form in which identification of the data subject is no longer possible;
+
+(27) Whereas the protection of individuals must apply as much to automatic processing of data as to manual processing; whereas the scope of this protection must not in effect depend on the techniques used, otherwise this would create a serious risk of circumvention; whereas, nonetheless, as regards manual processing, this Directive covers only filing systems, not unstructured files; whereas, in particular, the content of a filing system must be structured according to specific criteria relating to individuals allowing easy access to the personal data; whereas, in line with the definition in Article 2 (c), the different criteria for determining the constituents of a structured set of personal data, and the different criteria governing access to such a set, may be laid down by each Member State; whereas files or sets of files as well as their cover pages, which are not structured according to specific criteria, shall under no circumstances fall within the scope of this Directive;
+
+[]
+
+(38) Whereas, if the processing of data is to be fair, the data subject must be in a position to learn of the existence of a processing operation and, where data are collected from him, must be given accurate and full information, bearing in mind the circumstances of the collection;
+
+[]
+
+(41) Whereas any person must be able to exercise the right of access to data relating to him which are being processed, in order to verify in particular the accuracy of the data and the lawfulness of the processing; whereas, for the same reasons, every data subject must also have the right to know the logic involved in the automatic processing of data concerning him, at least in the case of the automated decisions referred to in Article 15 (1); whereas this right must not adversely affect trade secrets or intellectual property and in particular the copyright protecting the software; whereas these considerations must not, however, result in the data subject being refused all information;
+
+[]
+
+(43) Whereas restrictions on the rights of access and information and on certain obligations of the controller may similarly be imposed by Member States in so far as they are necessary to safeguard, for example, national security, defence, public safety, or important economic or financial interests of a Member State or the Union, as well as criminal investigations and prosecutions and action in respect of breaches of ethics in the regulated professions; whereas the list of exceptions and limitations should include the tasks of monitoring, inspection or regulation necessary in the three last-mentioned areas concerning public security, economic or financial interests and crime prevention; whereas the listing of tasks in these three areas does not affect the legitimacy of exceptions or restrictions for reasons of State security or defence;
+
+[]
+
+(46) Whereas the protection of the rights and freedoms of data subjects with regard to the processing of personal data requires that appropriate technical and organizational measures be taken, both at the time of the design of the processing system and at the time of the processing itself, particularly in order to maintain security and thereby to prevent any unauthorized processing; whereas it is incumbent on the Member States to ensure that controllers comply with these measures; whereas these measures must ensure an appropriate level of security, taking into account the state of the art and the costs of their implementation in relation to the risks inherent in the processing and the nature of the data to be protected;
+
+[]
+
+(55) Whereas, if the controller fails to respect the rights of data subjects, national legislation must provide for a judicial remedy; whereas any damage which a person may suffer as a result of unlawful processing must be compensated for by the controller, who may be exempted from liability if he proves that he is not responsible for the damage, in particular in cases where he establishes fault on the part of the data subject or in case of force majeure; whereas sanctions must be imposed on any person, whether governed by private of public law, who fails to comply with the national measures taken under this Directive;
+
+[]
+
+(59) Whereas particular measures may be taken to compensate for the lack of protection in a third country in cases where the controller offers appropriate safeguards; whereas, moreover, provision must be made for procedures for negotiations between the Community and such third countries;
+
+[]
+
+THE DATA SUBJECT'S RIGHT OF ACCESS TO DATA
+
+Article 12
+
+Right of access
+
+Member States shall guarantee every data subject the right to obtain from the controller:
+
+(a) without constraint at reasonable intervals and without excessive delay or expense:
+
+- confirmation as to whether or not data relating to him are being processed and information at least as to the purposes of the processing, the categories of data concerned, and the recipients or categories of recipients to whom the data are disclosed,
+
+- communication to him in an intelligible form of the data undergoing processing and of any available information as to their source,
+
+- knowledge of the logic involved in any automatic processing of data concerning him at least in the case of the automated decisions referred to in Article 15 (1);
+
+(b) as appropriate the rectification, erasure or blocking of data the processing of which does not comply with the provisions of this Directive, in particular because of the incomplete or inaccurate nature of the data;
+
+(c) notification to third parties to whom the data have been disclosed of any rectification, erasure or blocking carried out in compliance with (b), unless this proves impossible or involves a disproportionate effort.
+
+SECTION VI
+
+EXEMPTIONS AND RESTRICTIONS
+
+Article 13
+
+Exemptions and restrictions
+
+1. Member States may adopt legislative measures to restrict the scope of the obligations and rights provided for in Articles 6 (1), 10, 11 (1), 12 and 21 when such a restriction constitutes a necessary measures to safeguard:
+
+(a) national security;
+
+(b) defence;
+
+(c) public security;
+
+(d) the prevention, investigation, detection and prosecution of criminal offences, or of breaches of ethics for regulated professions;
+
+(e) an important economic or financial interest of a Member State or of the European Union, including monetary, budgetary and taxation matters;
+
+(f) a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (c), (d) and (e);
+
+(g) the protection of the data subject or of the rights and freedoms of others.
+
+Relevant provisions of the Bahamian Trustee Act 1988
+
+ Section 83(8) and (10) of the Bahamian Trustee Act 1988 ("BTA") provide (so far as material) that:
+
+(8) Notwithstanding anything to the contrary in this section, trustees shall not be bound or compelled by any process of discovery or inspection or under any equitable rule or principle to disclose or produce to any beneficiary or other person any of the following documents, that is to say (a) any memorandum or letter of wishes issued by the settlor  (b) any document disclosing any deliberations of the trustees as to the manner in which the trustees should exercise any discretion of theirs or disclosing the reasons for any particular exercise of any such discretion or the material on which such reasons were or might have been based; or (c) any other document relating to the exercise or proposed exercise of any discretion of the trustees (including legal advice obtained by them in connection with the exercise by them of any discretion). (10) No such prohibition or restriction, and nothing in this section shall prejudice the validity of any trust or the entitlement of any beneficiaries who have in any manner become aware of any trusts to obtain orders from the court for administration or accounts, or for the execution of the trusts, or any other order of the court not being an order for the discovery, inspection, disclosure or production of such documents as are described in subsection (8) 
+
+

@@ -1,0 +1,60 @@
+AP (The Netherlands) - AWB-20 2533/20 2938
+Jump to:navigation, search
+AP - BKR fined for hindering and charging fees for access requests
+LogoNL.png
+Authority:	AP (The Netherlands)
+Jurisdiction:	Netherlands
+Relevant Law:	Article 12(2) GDPR
+Article 12(5) GDPR
+Article 15 GDPR
+Type:	Investigation
+Outcome:	Violation Found
+Started:	
+Decided:	30.07.2019
+Published:	06.07.2020
+Fine:	830000 EUR
+Parties:	n/a
+National Case Number/Name:	BKR fined for hindering and charging fees for access requests
+European Case Law Identifier:	n/a
+Appeal:	Pending appeal
+Original Language(s):	Dutch
+Dutch
+Original Source:	Ruling preliminary injunction (in NL)
+AP publication (in NL)
+Initial Contributor:	n/a
+The Dutch DPA (AP) after investigation found multiple violations and decided to fine the Credit Registration Office (BKR) €830.000, because it charged fees for digital access requests and limited free access requests per mail to one per year. The BKR has announced they will appeal the fine. Additionally the BKR requested the AP does not publish their decision, but the Arhem court declined and the AP has published their decision.
+
+
+Contents
+1 English Summary
+1.1 Facts
+1.2 Holding
+2 Comment
+3 Further Resources
+4 English Machine Translation of the Decision
+English Summary
+Facts
+Between 25-05-2018 and 28-04-2019, the BKR provided for two ways to gain access to their personal information.
+
+1. Through a subscription to a customer portal (Basic €4,95/y, Plus €7,50/y, Premium €12,50/y).
+
+2. By downloading, printing and filling out a form, attaching an ID copy and submitting it per mail.
+
+On 29-04-2019 the BKR added free digital access requests.
+
+Between 25-05-2018 and 12-03-2019, the BKR stated in their privacy policy and e-mails included in the investigation, that people "have a right to free access to their personal information once per year". This free access would be limited to requests made per mail. For more frequent access, it suggested to use one of the paid subscriptions.
+
+On 13-03-2019 the way the BKR communicates their policy was updated.
+
+The BKR made a statement that in practice, they allowed access more than once per year and don't charge for requests made per mail. Stating their intention was to prevent excessive access requests.
+
+Holding
+The DPA held, free digital access requests should be available and the BKR violated this up to 29-04-2019.
+
+It also held, the BKR up to 13-03-2019 insufficiently facilitated people in exercising their rights, by actively communicating a policy that free access requests per mail was limited to once per year, creating an additional barrier and discouragement.
+
+Comment
+The BKR also requested the AP's decision not be made public. The motivation included claims that the publication (due to reputation damage) acted as additional punishment besides the fine and that the appeal to the fine is still pending. The court 29-06-2020 Arnhem, denied this request and the AP has since published their decision.
+
+
+

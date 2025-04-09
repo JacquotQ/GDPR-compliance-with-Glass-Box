@@ -1,0 +1,15 @@
+An employer violated Articles 5 and 6 GDPR for recording their employee during their work leave at home and dismissing them as a result.
+
+In August 2022, the claimant (the data subject) was on sick leave from their work. On 29 August 2022, the plaintiff was helping their mother-in-law trim a tree at her residential place. The claimant noticed a vehicle across the street with one of its occupants filming them with a phone. The plaintiff approached the vehicle and recognized the individuals, identifying them as senior managers from their company. The claimant subsequently expressed frustration, contending that they were being filmed without their consent and outside the work environment.
+
+The following day, the claimant was summounded to a meeting in which they were suspended with pay pending an investigation. During the meeting, the plaintiff asked about the recording, and was told not to focus on the video evidence, because there were credible witnesses to the incident in question. No such investigation took place.
+
+On 06 September 2022, the claimant attended a disciplinary hearing. On 12 September 2022, they were informed of their immediate termination, which was upheld after an appeal. It was claimed that the (unlawful) recording was not relied upon during these proceedings.
+
+The data subject complained, among others, that the defendant(s) wrongfully used, disclosed or processed its confidential information without consent or lawful purpose, thereby violating provisions of the GDPR and the Data Protection Act 2018. The data subject’s claim seeks damages, including non-material damages for the related stress, financial detriment, and reputational damages, inter alia.
+
+The plaintiff also issued motions to direct the defendant to comply with their request for access to, and copy of, the recording. In response thereto, an affidavit was issued confirming that one of the senior managers neither possessed the recording nor transferred it to anyone.
+
+Holding
+The Circuit Civil Court held that the defendants and its agents breached the data subject’s personal data rights, because there was a sufficient causal link between the actions of the senior managers and the subsequent dismissal of the plaintiff. The Court issued orders directing the defendant to account for the loss, erasure, or destruction of the recording and compensation for €5,500, in accordance with Section 117(4)(b) of the Data Protection Act.
+
