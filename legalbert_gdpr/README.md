@@ -1,6 +1,6 @@
-# LegalBERT for GDPR Clause Classification
+# LegalBERT for GDPR legal analysis
 
-This project fine-tunes a LegalBERT model to classify GDPR-related clauses in legal texts.
+This project fine-tunes a LegalBERT model to predict GDPR cases.
 
 ## 📁 Project Structure
 
