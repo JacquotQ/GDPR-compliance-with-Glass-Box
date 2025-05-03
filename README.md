@@ -60,3 +60,9 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## License
 This project is licensed under the CC BY-NC-SA 4.0 license. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or inquiries, please feel free to reach out:
+
+Author: Jacques Qiu
+GitHub: JacquotQ
