@@ -1,5 +1,5 @@
-Sample_ID;Text_inputs;Structured data;Decision Tree Output;Legal-Bert output;Standardised explain for legal Bert;Standardised explain for Decision Tree;Legal correlation;Logic correlation;Comment;肯德尔系数;Top 3;改文字之后的肯德尔系数;改文字之后的Top3
-1;"""Affected_data_volume is unspecific. company_industry is Education. country is Netherlands. data category basic personal data is true. data processing basis performance of public task is true. Relevant Law conflict with GDPR is No conflict. ""
+Sample_ID;Text_inputs;Structured data;Decision Tree Output;Legal-Bert output;Standardised explain for legal Bert;Standardised explain for Decision Tree;Legal correlation;Logic correlation;Comment;Kendall;Top 3;Kendall Change;Top3 Change
+1;"Affected_data_volume is unspecific. company_industry is Education. country is Netherlands. data category basic personal data is true. data processing basis performance of public task is true. Relevant Law conflict with GDPR is No conflict. "
 ";"sample = {
     ""data_category_Basic_personal_data"": 1,
     ""data_category_Special_category_data"": 0,
