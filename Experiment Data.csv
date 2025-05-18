@@ -1,0 +1,426 @@
+Sample_ID;Text_inputs;Structured data;Decision Tree Output;Legal-Bert output;Standardised explain for legal Bert;Standardised explain for Decision Tree;Legal correlation;Logic correlation;Comment;肯德尔系数;Top 3;改文字之后的肯德尔系数;改文字之后的Top3
+1;"""Affected_data_volume is unspecific. company_industry is Education. country is Netherlands. data category basic personal data is true. data processing basis performance of public task is true. Relevant Law conflict with GDPR is No conflict. ""
+";"sample = {
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 0,
+    ""data_category_Financial_data"": 0,
+    ""data_category_location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 0,
+    ""data_processing_basis_contract_performance"": 0,
+    ""data_processing_basis_Consent"": 0,
+    ""data_processing_basis_Legal_obligation"": 0,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 1,
+    ""fine_amount"": 0,
+    ""country"": ""Netherlands"",
+    ""company_industry"": ""Education"",
+    ""gdpr_conflict"": ""No conflict"",
+    ""Affected_data_volume"": ""unspecific"",
+    ""Date"": “4""
+}
+";"Non Violation
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 0) <= 0.5000
+Node 2: (free_speech_exception = 0) <= 0.5000
+Node 3: (data_processing_basis_Performance_of_public_task = 1) > 0.5000
+Node 319: (country = Netherlands) > 0.5000
+Node 335: (data_processing_basis_Legitimate_interest = 0) <= 0.5000
+Node 336: (company_industry = Education) <= 4.5000
+Node 337: (Date = 4) <= 5.5000
+Node 338: (data_category_Children_data = 0) <= 0.5000
+→ Final decision made at leaf node 339";"Non-violation[0.89518005 0.10481996]
+Netherlands：0.04314820
+Affected_data_volume: 0.04389340
+No law conflict with GDPR: 0.03480781";"The case involves data processing in the Netherlands. The absence of any conflict between national laws and GDPR requirements, along with the consideration of the affected data volume, leads to the determination of compliance.
+";"In this case, the number of affected data subjects is uncertain, and it does not fall under any exception. The legal basis for processing data is the execution of a public task, and the data processing activities occurred in the Netherlands. The processing activities took place in 2020, and do not involve any processing of children's data. Therefore, it does not violate GDPR.
+";;;;1.00;1.00;0.3905;0.3704
+2;Affected_data_volume is unspecific. company_industry is Retail. country is Portugal. data category basic personal data is false. data processing basis legal obligation is true. Relevant Law conflict with GDPR is No conflict. Date is 2019.;"{
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 0,
+    ""data_category_Financial_data"": 0,
+    ""data_category_Location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 0,
+    ""data_processing_basis_contract_performance"": 0,
+    ""data_processing_basis_Consent"": 0,
+    ""data_processing_basis_Legal_obligation"": 1,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 0,
+    ""country"": ""Portugal"",
+    ""company_industry"": ""Retail"",
+    ""gdpr_conflict"": ""No conflict"",
+    ""free_speech_exception"": 0,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 0,
+    ""Affected_data_volume"": ""unspecific"",
+    ""Date"": “3""
+}";"Violation
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 0) <= 0.5000
+Node 2: (free_speech_exception = 0) <= 0.5000
+Node 3: (data_processing_basis_Performance_of_public_task = 0) <= 0.5000
+Node 4: (country = Portugal) <= 25.5000
+Node 5: (data-category_Financial_data = 0) <= 0.5000
+Node 6: (data_processing_basis_Protection_of_vital_interests = 0) <= 0.5000
+Node 7: (country = Portugal) <= 24.5000
+Node 8: (data_processing_basis_Consent = 0) <= 0.5000
+Node 9: (company_industry = Retail) <= 8.5000
+Node 10: (country = Portugal) > 15.5000
+Node 86: (country = Portugal) <= Slovenia
+→ Final decision made at leaf node 87";"
+[0.89228284 0.10771716]
+Non violation
+
+Affect data subject volume: 0.02644394
+Portugal: 0.02721865
+Legal obligation:
+0.02072817
+";In this case, the number of data subjects is uncertain, and the data processing activities occurred in Portugal. The basis for data processing is legal obligation. Therefore, it does not violate GDPR.;"The number of affected data is uncertain, and no exceptions apply. The processing activities occurred in Portugal, and financial data is not being processed. Since it belongs to the retail industry, the basis for processing is neither consent nor protection of vital interests. Therefore, it violates GDPR.
+
+Result: Violation of GDPR.";;;;1.00;1.00;0.4964;0.4537
+3;"Affected_data_volume is unspecific. company_industry is Human resources. country is Germany. data category basic personal data is true. data processing basis contract performance is true. Relevant Law conflict with GDPR is No conflict. Date is 2024.
+";"{
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 0,
+    ""data_category_Financial_data"": 0,
+    ""data_category_Location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 1,
+    ""data_processing_basis_contract_performance"": 1,
+    ""data_processing_basis_Consent"": 0,
+    ""data_processing_basis_Legal_obligation"": 0,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 0,
+    ""country"": ""Germany"",
+    ""company_industry"": ""Human resources"",
+    ""gdpr_conflict"": ""No conflict"",
+    ""free_speech_exception"": 0,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 0,
+    ""Affected_data_volume"": ""unspecific"",
+    ""Date"": “8""
+}";"Violation
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 0) <= 0.5000
+Node 2: (free_speech_exception = 0) <= 0.5000
+Node 3: (data_processing_basis_Performance_of_public_task = 0) <= 0.5000
+Node 4: (country = Germany) <= 25.5000
+Node 5: (data-category_Financial_data = 0) <= 0.5000
+Node 6: (data_processing_basis_Protection_of_vital_interests = 0) <= 0.5000
+Node 7: (country = Germany) <= 24.5000
+Node 8: (data_processing_basis_Consent = 0) <= 0.5000
+Node 9: (company_industry = Human resources) <= 8.5000
+Node 10: (country = Germany) <= 15.5000
+Node 11: (data_category_Criminal_data = 0) <= 0.5000
+Node 12: (company_industry = Human resources) <= 7.5000
+Node 13: (data_category_Children_data = 0) <= 0.5000
+Node 14: (country = Germany) <= 10.5000
+Node 15: (company_industry = Human resources) <= 6.5000
+Node 16: (company_industry = Human resources) <= 2.5000
+Node 17: (Date = 8) > 6.5000
+→ Final decision made at leaf node 19";"Non-violation[0.88856035 0.11143965]
+
+No Conflict: 0.01544148
+Unspecific: 0.03897189
+Basic: 0.02840313
+Payroll: 
+0.03826760";In this case, an HR company is processing basic personal data. There is no national law that conflicts with GDPR, and the number of data subjects is unspecified. Therefore, it does not violate GDPR.;In this case, there is no national law conflicting with GDPR, which means GDPR rules should fully apply. The system further excludes several possible exceptions: the data processing is not based on the freedom of expression exception, nor is it processing data for the execution of a public task. The entity does not process criminal data or children data. Since the legal basis for processing data does not fall under consent, public task, or vital interest, and the case occurred after 2021, it violates GDPR.;;;;1.00;1.00;0.5107;0.5037
+4;Public sector. Germany. basic personal data and financial data,. data processing basis legal obligation and performance of public task.;"{
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 0,
+    ""data_category_Financial_data"": 1,
+    ""data_category_Location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 0,
+    ""data_processing_basis_contract_performance"": 0,
+    ""data_processing_basis_Consent"": 0,
+    ""data_processing_basis_Legal_obligation"": 1,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 1,
+    ""country"": ""Germany"",
+    ""company_industry"": ""Public sector"",
+    ""gdpr_conflict"": ""No conflict"",
+    ""free_speech_exception"": 0,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 0,
+    ""Affected_data_volume"": ""unspecific"",
+    ""Date"": “6""
+}";"Violation
+
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 0) <= 0.5000
+Node 2: (free_speech_exception = 0) <= 0.5000
+Node 3: (data_processing_basis_Performance_of_public_task = 1) > 0.5000
+Node 319: (country = Germany) > 0.5000
+Node 335: (data_processing_basis_Legitimate_interest = 0) <= 0.5000
+Node 336: (company_industry = Public sector) > 4.5000
+Node 342: (Criminal_investigation_exception = 0) <= 0.5000
+Node 343: (country = Germany) <= 23.5000
+Node 344: (Date = 6) > 4.5000
+Node 380: (Date = 6) <= 8.5000
+Node 381: (data_processing_basis_Legal_obligation = 1) > 0.5000
+Node 403: (Date = 6) <= 7.5000
+Node 404: (country = Germany) <= 10.5000
+Node 405: (data_processing_basis_contract_performance = 0) <= 0.5000
+→ Final decision made at leaf node 406";"Violation
+[0.32023376 0.67976624]
+
+No conflict: 0.04584143
+Public Sector: 0.01847510
+Germany: 0.06197567
+";In this case, the public sector is processing personal data, no national law conflicts with GDPR have been found, and the processing activities are based in Germany. Therefore, it violates GDPR.;In this case, No exceptions apply, the processing is based on public tasks and legal obligations, and it belongs to the public service industry. It is located in Germany and occurred between 2020 and 2024. Therefore, it violates GDPR.;;;;1.00;1.00;0.4782;0.6296
+5;Affected_data_volume is unspecific. company_industry is Insurance. country is Denmark. data category special category data is true. data processing basis contract performance is true. Relevant Law conflict with GDPR is No conflict. Date is 2021.;"{
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 1,
+    ""data_category_Criminal_data"": 0,
+    ""data_category_Financial_data"": 1,
+    ""data_category_Location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 1,
+    ""data_processing_basis_contract_performance"": 1,
+    ""data_processing_basis_Consent"": 0,
+    ""data_processing_basis_Legal_obligation"": 0,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 0,
+    ""country"": ""Denmark"",
+    ""company_industry"": ""Insurance"",
+    ""gdpr_conflict"": ""No conflict"",
+    ""free_speech_exception"": 0,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 0,
+    ""Affected_data_volume"": ""unspecific"",
+    ""Date"": “2021”
+}";"Violation
+
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 0) <= 0.5000
+Node 2: (free_speech_exception = 0) <= 0.5000
+Node 3: (data_processing_basis_Performance_of_public_task = 0) <= 0.5000
+Node 4: (country = Denmark) <= 25.5000
+Node 5: (data-category_Financial_data = 0) <= 0.5000
+Node 6: (data_processing_basis_Protection_of_vital_interests = 0) <= 0.5000
+Node 7: (country = Denmark) <= 24.5000
+Node 8: (data_processing_basis_Consent = 0) <= 0.5000
+Node 9: (company_industry = Insurance) <= 8.5000
+Node 10: (country = Denmark) <= 15.5000
+Node 11: (data_category_Criminal_data = 0) <= 0.5000
+Node 12: (company_industry = Insurance) <= 7.5000
+Node 13: (data_category_Children_data = 0) <= 0.5000
+Node 14: (country = Denmark) <= 10.5000
+Node 15: (company_industry = Insurance) <= 6.5000
+Node 16: (company_industry = Insurance) > 2.5000
+Node 20: (data_processing_basis_Legitimate_interest = 1) > 0.5000
+Node 28: (Date = 2021) <= 6.5000
+Node 29: (country = Denmark) > 0.5000
+Node 31: (Date = 2021) <= 5.5000
+→ Final decision made at leaf node 32";"Non- violation
+[0.8881227  0.11187729]
+
+2021:0.02512263
+Denmark: 0.02568843
+Insurance: 0.02538163
+";This case has no conflict in legal application, and it involves a Danish insurance company. Therefore, it is not violates GDPR.;This case does not apply exceptions, and there is no conflict in legal application. The legal processing activities are located in Denmark, and it is an insurance company. The data processing is based on legitimate interest and occurred in 2021. Therefore, it violates GDPR.;;;;1.00;1.00;0.3223;0.2815
+6;"Affected_data_volume is unspecific. company_industry is Insurance. country is Germany. data category financial location data is true. Relevant Law conflict with GDPR is No conflict. Date is 2022.
+";"{
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 0,
+    ""data_category_Financial_data"": 1,
+    ""data_category_location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 1,
+    ""data_processing_basis_contract_performance"": 1,
+    ""data_processing_basis_Consent"": 1,
+    ""data_processing_basis_Legal_obligation"": 0,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 0,
+    ""country"": ""Germany"",
+    ""company_industry"": ""Insurance"",
+    ""gdpr_conflict"": ""No conflict"",
+    ""free_speech_exception"": 0,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 0,
+    ""Affected_data_volume"": ""unspecific"",
+    ""Date"": “6""
+}
+";"Violation
+
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 0) <= 0.5000
+Node 2: (free_speech_exception = 0) <= 0.5000
+Node 3: (data_processing_basis_Performance_of_public_task = 0) <= 0.5000
+Node 4: (country = Germany) <= 25.5000
+Node 5: (data-category_Financial_data = 0) <= 0.5000
+Node 6: (data_processing_basis_Protection_of_vital_interests = 0) <= 0.5000
+Node 7: (country = Germany) <= 24.5000
+Node 8: (data_processing_basis_Consent = 1) > 0.5000
+Node 144: (data_processing_basis_contract_performance = 1) > 0.5000
+Node 160: (company_industry = Insurance) <= 8.5000
+Node 161: (country = Germany) <= Luxembourg
+→ Final decision made at leaf node 162";"[0.8855022  0.11449773]
+
+Non-violation
+
+Germany: 0.03298427
+
+Contract performance:0.02856157
+2022: 0.06808356";In this case, the data processing activities occurred in Germany, and the data was processed based on contract performance. The data processing occurred in 2022. Therefore, it does not violate GDPR.;In this case, there is no conflict in legal application and no exceptions apply. The basis for data processing is consent and contract performance. Since the company is an insurance company located in Germany, it violates GDPR.;;;;1.00;1.00;0.2362;0.3111
+7;"Affected_data_volume is unspecific. company_industry is Public sector. country is Netherlands. data category basic personal data is true. data category criminal data is true. data category financial location data is true. data processing basis legal obligation is true. data processing basis performance of public task is true. Relevant Law conflict with GDPR is No conflict. criminal investigation exception is true. Date is 2023.
+";"{
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 1,
+    ""data_category_Financial_data"": 0,
+    ""data_category_location_data"": 1""
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 0,
+    ""data_processing_basis_contract_performance"": 0,
+    ""data_processing_basis_Consent"": 0,
+    ""data_processing_basis_Legal_obligation"": 1,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 1,
+    ""country"": ""Netherlands"",
+    ""company_industry"": ""Public sector"",
+    ""gdpr_conflict"": ""No conflict"",
+    ""free_speech_exception"": 0,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 1,
+    ""Affected_data_volume"": ""unspecific"",
+    ""Date"": “7""
+}";"Violation:
+
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 0) <= 0.5000
+Node 2: (free_speech_exception = 0) <= 0.5000
+Node 3: (data_processing_basis_Performance_of_public_task = 1) > 0.5000
+Node 319: (country = Netherlands) > 0.5000
+Node 335: (data_processing_basis_Legitimate_interest = 0) <= 0.5000
+Node 336: (company_industry = Public sector) > 4.5000
+Node 342: (Criminal_investigation_exception = 1) > 0.5000
+Node 454: (data-category_Financial_data = 0) <= 0.5000
+Node 455: (country = Netherlands) > 5.5000
+Node 457: (country = Netherlands) <= 26.5000
+Node 458: (country_security_exception = 0) <= 0.5000
+→ Final decision made at leaf node 459";"[0.72526044 0.2747396 ]
+Non-violation
+
+Criminal data: 0.02547309
+
+Criminal Investigation Exception: 0.02163061
+Netherland:
+0.04944672
+";This case involves processing criminal data and applies the criminal investigation exception. The data processing activities occurred in the Netherlands. Therefore, it does not violate GDPR.;In this case, there is no conflict in legal application. The basis for data processing is the processing of public tasks. The data processor is a public sector entity in the Netherlands. The criminal investigation exception applies, but the national security exception does not apply. Therefore, it violates GDPR.;;;;1.00;1.00;0.6029;0.5714
+8;Affected_data_volume is 1. company_industry is Social Media. country is Netherlands. data category criminal data is true. data processing basis legitimate interest is true. Relevant Law conflict with GDPR is No conflict. free speech exception is true. Date is 2021. ;"{
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 1,
+    ""data_category_Financial_data"": 0,
+    ""data_category_location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 1,
+    ""data_processing_basis_contract_performance"": 0,
+    ""data_processing_basis_Consent"": 0,
+    ""data_processing_basis_Legal_obligation"": 0,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 0,
+    ""country"": ""Netherlands"",
+    ""company_industry"": ""Social Media"",
+    ""gdpr_clause"": ""Article 17(3)(a)"",
+    ""gdpr_conflict"": ""No conflict"",
+    ""free_speech_exception"": 1,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 0,
+    ""Affected_data_volume"": 1,
+    ""Date"": “5""
+}
+";"Violation
+
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 1) > 0.5000
+Node 481: (country = Netherlands) <= 30.5000
+Node 482: (country = Netherlands) <= 29.5000
+Node 483: (country = Netherlands) <= 23.5000
+Node 484: (Date = 2021) > 4.5000
+Node 486: (Affected_data_volume = 1) <= 43.5000
+→ Final decision made at leaf node 487";"[0.8783888  0.12161123]
+Non-violation
+
+Non conflict: 0.02022867
+Netherland:
+0.04322042
+
+Legitimate interest:
+0.00933947
+";"In this case, there is no conflict in legal application. It is located in the Netherlands, and the processing is based on legitimate interest. Therefore, it does not violate GDPR.
+
+";In this case, there is no conflict in legal application. The company is located in the Netherlands, and the incident occurred after 2021. The number of affected data subjects is 1. Therefore, it violates GDPR.;;;;1.00;1.00;0.5179;0.3481
+9;"Affected_data_volume is 10000. company_industry is Retail. country is Poland. data category basic personal data is true. data processing basis legitimate interest is true. data processing basis contract performance is true. Relevant law conflict with GDPR.Date is 2020. fine amount is 0.
+";"{
+    ""data_category_Basic_personal_data"": 1,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 0,
+    ""data_category_Financial_data"": 0,
+    ""data_category_location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 1,
+    ""data_processing_basis_contract_performance"": 1,
+    ""data_processing_basis_Consent"": 0,
+    ""data_processing_basis_Legal_obligation"": 0,
+    ""data_processing_basis_Protection_of_vital_interests"": 0,
+    ""data_processing_basis_Performance_of_public_task"": 0,
+    ""country"": ""Poland"",
+    ""company_industry"": ""Retail"",
+    ""gdpr_conflict"": “yes"",
+    ""free_speech_exception"": 0,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 0,
+    ""Affected_data_volume"": 10000,
+    ""Date"": “4”
+  }";"Violation
+Node 0: (gdpr_conflict = yes) > 0.5000
+Node 518: (free_speech_exception = 0) <= 0.5000
+Node 519: (country = Poland) > 0.5000
+Node 525: (data_category_Children_data = 0) <= 0.5000
+→ Final decision made at leaf node 526";"[0.88127786 0.11872216]
+Non violation
+
+Poland: 0.07900078
+10000000: 0.02997481
+Conflict: 0.03127199";In this case, the data processing is located in Poland and affects 10,000 data subjects. There is a conflict in legal application. Therefore, it does not violate GDPR.;In this case, there is a conflict in legal application, but the free speech exception does not apply. The processing activities are located in Poland, but do not process children's data. Therefore, it violates GDPR.;;;;1.00;1.00;0.2929;0.3556
+10;Affected_data_volume is 556. company_industry is Human resources. country is Slovenia. data processing basis contract performance is true. data processing basis consent is true. data processing basis legal obligation is true. data processing basis protection of vital interests is true. data processing basis performance of public task is true. Relevant Law conflict with GDPR is No conflict. Date is 2020.;"{
+    ""data_category_Basic_personal_data"": 0,
+    ""data_category_Special_category_data"": 0,
+    ""data_category_Criminal_data"": 0,
+    ""data_category_Financial_location_data"": 0,
+    ""data_category_Children_data"": 0,
+    ""data_processing_basis_Legitimate_interest"": 0,
+    ""data_processing_basis_contract_performance"": 1,
+    ""data_processing_basis_Consent"": 1,
+    ""data_processing_basis_Legal_obligation"": 1,
+    ""data_processing_basis_Protection_of_vital_interests"": 1,
+    ""data_processing_basis_Performance_of_public_task"": 1,
+    ""country"": ""Slovenia"",
+    ""company_industry"": ""Human resources”,
+    ""gdpr_conflict"": ""No conflict"",
+    ""free_speech_exception"": 0,
+    ""country_security_exception"": 0,
+    ""Criminal_investigation_exception"": 0,
+    ""Affected_data_volume"": 556,
+    ""Date"": “4""
+  }";"Violation
+Node 0: (gdpr_conflict = No conflict) <= 0.5000
+Node 1: (Affected_data_volume = 556) > 0.5000
+Node 481: (country = Slovenia) <= 30.5000
+Node 482: (country = Slovenia) <= 29.5000
+Node 483: (country = Slovenia) > 23.5000
+→ Final decision made at leaf node 507";"[0.8458544  0.15414557]
+Non-violation
+
+Slovenia: 0.04759984
+Legal Obligation: -0.01525203
+No conflict：0.01776054";In this case, the data processing activities occurred in Slovenia. The processing is based on legal obligation, and there is no conflict in legal application. Therefore, it does not violate GDPR.;In this case, there is no conflict in legal application, but the data affects 556 subjects. The processing activities are located in Slovenia. Therefore, it violates GDPR.;;;;1.00;1.00;0.5978;0.4889
