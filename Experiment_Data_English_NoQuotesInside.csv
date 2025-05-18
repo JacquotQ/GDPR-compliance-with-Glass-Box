@@ -1,7 +1,7 @@
 Sample_ID;Text_inputs;Structured data;Decision Tree Output;Legal-Bert output;Standardized Explanation for Legal BERT;Standardized Explanation for Decision Tree;Legal correlation;Logic correlation;Comment;Kendall's Tau;Top 3;Kendall's Tau After Text Edit;Top 3 After Text Edit
 1;Affected_data_volume is unspecific. company_industry is Education. country is Netherlands. data category basic personal data is true. data processing basis performance of public task is true. Relevant Law conflict with GDPR is No conflict. \
 ;
-{\
+{
     data_category_Basic_personal_data: 1,\
     data_category_Special_category_data: 0,\
     data_category_Criminal_data: 0,\
